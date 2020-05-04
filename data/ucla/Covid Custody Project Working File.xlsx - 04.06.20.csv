@@ -1,0 +1,573 @@
+Facility,State,Name,Staff Confirmed,Residents confirmed,Staff Deaths,Resident Deaths,Date
+Prison,Alabama,Alex City,,,,,4/6/2020
+Prison,Alabama,ATEF,,,,,4/6/2020
+Prison,Alabama,Bibb,,,,,4/6/2020
+Prison,Alabama,Birmingham,,,,,4/6/2020
+Prison,Alabama,Bullock,,,,,4/6/2020
+Prison,Alabama,Camden,,,,,4/6/2020
+Prison,Alabama,Childersburg,,,,,4/6/2020
+Prison,Alabama,Donaldson,,,,,4/6/2020
+Prison,Alabama,Easterling,,,,,4/6/2020
+Prison,Alabama,Elba,,,,,4/6/2020
+Prison,Alabama,Elmore,,,,,4/6/2020
+Prison,Alabama,Fountain,,,,,4/6/2020
+Prison,Alabama,Frank Lee,,,,,4/6/2020
+Prison,Alabama,Hamilton A&I,,,,,4/6/2020
+Prison,Alabama,Hamilton CBF,,,,,4/6/2020
+Prison,Alabama,Holman,,,,,4/6/2020
+Prison,Alabama,Kilby,,,,,4/6/2020
+Prison,Alabama,Limestone,,,,,4/6/2020
+Prison,Alabama,Loxley,,,,,4/6/2020
+Prison,Alabama,Mobile,,,,,4/6/2020
+Prison,Alabama,Montgomery,,,,,4/6/2020
+Prison,Alabama,North Alabama,,,,,4/6/2020
+Prison,Alabama,Red Eagle,,,,,4/6/2020
+Prison,Alabama,St Clair,1,,,,4/6/2020
+Prison,Alabama,Staton,1,,,,4/6/2020
+Prison,Alabama,Tutwiler,,,,,4/6/2020
+Prison,Alabama,Ventress,,,,,4/6/2020
+Prison,Alaska,State-Wide,,,,,4/6/2020
+Prison,Arizona,State-Wide,3,0,,,4/6/2020
+Prison,Arkansas,State-Wide,1,,,,4/6/2020
+Prison,California,ASP-Avenal State Prison ,,0,,0,4/6/2020
+Prison,California,CAC-California City Correctional Facility ,,0,,0,4/6/2020
+Prison,California,CAL-Calipatria State Prison ,2,0,,0,4/6/2020
+Prison,California,CCC-California Correctional Center ,,0,,0,4/6/2020
+Prison,California,CCI-California Correctional Institution ,,0,,0,4/6/2020
+Prison,California,CCWF-Central California Women’s Facility ,1,0,,0,4/6/2020
+Prison,California,"CEN-California State Prison, Centinela ",2,0,,0,4/6/2020
+Prison,California,CHCF-California Health Care Facility ,5,0,,0,4/6/2020
+Prison,California,CIM-California Institution for Men ,16,7,,0,4/6/2020
+Prison,California,CIW-California Institution for Women ,1,0,,0,4/6/2020
+Prison,California,CMC-California Men’s Colony ,,0,,0,4/6/2020
+Prison,California,CMF-California Medical Facility ,,0,,0,4/6/2020
+Prison,California,"COR-California State Prison, Corcoran ",,0,,0,4/6/2020
+Prison,California,CRC-California Rehabilitation Center ,,0,,0,4/6/2020
+Prison,California,CTF-Correctional Training Facility ,,0,,0,4/6/2020
+Prison,California,CVSP-Chuckawalla Valley State Prison ,,0,,0,4/6/2020
+Prison,California,DVI-Deuel Vocational Institution ,,0,,0,4/6/2020
+Prison,California,FSP-Folsom State Prison ,4,0,,0,4/6/2020
+Prison,California,HDSP-High Desert State Prison ,,0,,0,4/6/2020
+Prison,California,ISP-Ironwood State Prison ,,0,,0,4/6/2020
+Prison,California,KVSP-Kern Valley State Prison ,,0,,0,4/6/2020
+Prison,California,"LAC-California State Prison, Los Angeles County ",3,8,,0,4/6/2020
+Prison,California,MCSP-Mule Creek State Prison ,,0,,0,4/6/2020
+Prison,California,NKSP-North Kern State Prison ,,1,,0,4/6/2020
+Prison,California,PBSP-Pelican Bay State Prison ,,0,,0,4/6/2020
+Prison,California,PVSP-Pleasant Valley State Prison ,,0,,0,4/6/2020
+Prison,California,RJD-Richard J. Donovan Correctional Facility ,,0,,0,4/6/2020
+Prison,California,"SAC-California State Prison, Sacramento ",5,0,,0,4/6/2020
+Prison,California,"SATF-CSP-California Substance Abuse Treatment Facility and State Prison, Corcoran ",2,1,,0,4/6/2020
+Prison,California,SCC-Sierra Conservation Center ,,0,,0,4/6/2020
+Prison,California,"SOL-California State Prison, Solano ",,0,,0,4/6/2020
+Prison,California,SQ-San Quentin State Prison ,2,0,,0,4/6/2020
+Prison,California,SVSP-Salinas Valley State Prison ,1,0,,0,4/6/2020
+Prison,California,VSP-Valley State Prison ,1,0,,0,4/6/2020
+Prison,California,WSP-Wasco State Prison ,3,0,,0,4/6/2020
+Prison,California,Northern California Youth Correctional Center,1,,,,4/6/2020
+Prison,California,Worksite - Riverside County,1,,,,4/6/2020
+Prison,California,Worksite - Sacramento County,1,,,,4/6/2020
+Prison,California,Worksite - San Bernardino County,1,,,,4/6/2020
+Prison,California,Richard A McGee Correctional Training Center - Galt,2,,,,4/6/2020
+Prison,Colorado,State-Wide,3,0,,,4/6/2020
+Prison,Connecticut,Bridgeport CC,3,2,,,4/6/2020
+Prison,Connecticut,Brooklyn CI,0,0,,,4/6/2020
+Prison,Connecticut,Cheshire CI,2,0,,,4/6/2020
+Prison,Connecticut,Corr-Rad CC,7,4,,,4/6/2020
+Prison,Connecticut,Garner CI,1,0,,,4/6/2020
+Prison,Connecticut,Hartford CC,8,4,,,4/6/2020
+Prison,Connecticut,MWCI ,2,0,,,4/6/2020
+Prison,Connecticut,Manson Youth,0,0,,,4/6/2020
+Prison,Connecticut,New Haven CC,3,1,,,4/6/2020
+Prison,Connecticut,Northern CI,0,0,,,4/6/2020
+Prison,Connecticut,Osborn CI,1,0,,,4/6/2020
+Prison,Connecticut,Carl Robinson CI,2,2,,,4/6/2020
+Prison,Connecticut,Willard Cybulski,0,8,,,4/6/2020
+Prison,Connecticut,York CI,1,0,,,4/6/2020
+Prison,Delaware,State-Wide,2,0,,,4/6/2020
+Prison,Florida,Apalachee CI,3,0,,,4/6/2020
+Prison,Florida,Blackwater CF,5,4,,,4/6/2020
+Prison,Florida,Century CI,1,0,,,4/6/2020
+Prison,Florida,Columbia CI,1,0,,,4/6/2020
+Prison,Florida,Everglades CI,1,0,,,4/6/2020
+Prison,Florida,FWRC,1,0,,,4/6/2020
+Prison,Florida,Liberty CI,1,0,,,4/6/2020
+Prison,Florida,Okaloosa CI,1,0,,,4/6/2020
+Prison,Florida,Marion CI,1,0,,,4/6/2020
+Prison,Florida,Santa Rosa CI,1,0,,,4/6/2020
+Prison,Florida,SFRC,1,0,,,4/6/2020
+Prison,Florida,South Bay CF*,1,0,,,4/6/2020
+Prison,Florida,Sumter CI,1,0,,,4/6/2020
+Prison,Florida,Zephyrhills CI,3,0,,,4/6/2020
+Prison,Florida,Community Corrections Region 2,1,,,,4/6/2020
+Prison,Florida,Community Corrections Region 3,1,,,,4/6/2020
+Prison,Florida,Community Corrections Region 4,2,,,,4/6/2020
+Prison,Georgia,Atlanta TC,0,1,,,4/6/2020
+Prison,Georgia,Autry State Prison,2,0,,,4/6/2020
+Prison,Georgia,Bacon PDC,1,0,,,4/6/2020
+Prison,Georgia,Bainbridge PSAT,1,2,,,4/6/2020
+Prison,Georgia,Baldwin State Prison,1,1,,,4/6/2020
+Prison,Georgia,Burruss CTC,2,0,,,4/6/2020
+Prison,Georgia,Calhoun State Prison,2,0,,,4/6/2020
+Prison,Georgia,Dooly State Prison,1,0,,,4/6/2020
+Prison,Georgia,GDCP,1,0,,,4/6/2020
+Prison,Georgia,Johnson State Prison,1,4,,,4/6/2020
+Prison,Georgia,Lee State Prison,12,8,0,2,4/6/2020
+Prison,Georgia,Macon State Prison,1,1,,,4/6/2020
+Prison,Georgia,Phillips State Prison,3,3,,,4/6/2020
+Prison,Georgia,Phillips TC,2,0,,,4/6/2020
+Prison,Georgia,Ware State Prison,1,0,,,4/6/2020
+Prison,Georgia,Mitchell County CI,,3,,,4/6/2020
+Prison,Georgia,Wheeler Correctional Facility,,1,,,4/6/2020
+Prison,Hawaii,HCF,,,,,4/6/2020
+Prison,Hawaii,HCCC,,,,,4/6/2020
+Prison,Hawaii,KCCC,,,,,4/6/2020
+Prison,Hawaii,KCF,,,,,4/6/2020
+Prison,Hawaii,MCCC,,,,,4/6/2020
+Prison,Hawaii,OCOC,,,,,4/6/2020
+Prison,Hawaii,WCCC,,,,,4/6/2020
+Prison,Hawaii,WCF,,,,,4/6/2020
+Prison,Idaho,State-Wide,0,0,,,4/6/2020
+Prison,Illinois,Crossroads ATC,1,0,,,4/6/2020
+Prison,Illinois,Danville,1,0,,,4/6/2020
+Prison,Illinois,Fox Valley ATC,0,1,,,4/6/2020
+Prison,Illinois,Graham,1,0,,,4/6/2020
+Prison,Illinois,Joliet Treatment Center,1,0,,,4/6/2020
+Prison,Illinois,Kewanee LSRC,2,0,,,4/6/2020
+Prison,Illinois,Logan,2,0,,,4/6/2020
+Prison,Illinois,Menard,1,0,,,4/6/2020
+Prison,Illinois,North Lawndale ATC ,1,4,,,4/6/2020
+Prison,Illinois,Sheridan,1,1,,,4/6/2020
+Prison,Illinois,Stateville,24,95,,2,4/6/2020
+Prison,Illinois,Stateville NRC,6,0,,,4/6/2020
+Prison,Indiana,State-Wide,,5,,,4/6/2020
+Prison,Iowa,State-Wide,,,,,4/6/2020
+Prison,Kansas,El Dorado,0,0,,,4/6/2020
+Prison,Kansas,Ellsworth,0,0,,,4/6/2020
+Prison,Kansas,Hutchinson,0,0,,,4/6/2020
+Prison,Kansas,Lansing,7,3,,,4/6/2020
+Prison,Kansas,Larned,0,0,,,4/6/2020
+Prison,Kansas,Norton,0,0,,,4/6/2020
+Prison,Kansas,Topeka,0,0,,,4/6/2020
+Prison,Kansas,Winfield,0,0,,,4/6/2020
+Prison,Kansas,Wichita Work Release,0,0,,,4/6/2020
+Prison,Kansas,KJCC,0,0,,,4/6/2020
+Prison,Kentucky,State-Wide,1,,,,4/6/2020
+Prison,Louisiana,Allen Correctional Center,0,0,,,4/6/2020
+Prison,Louisiana,B.B. Rayburn Correctional Center,0,17,,,4/6/2020
+Prison,Louisiana,David Wade Correctional Center,2,0,,,4/6/2020
+Prison,Louisiana,Dixon Correctional Institute,1,1,,,4/6/2020
+Prison,Louisiana,Elayn Hunt Correctional Center,6,0,,,4/6/2020
+Prison,Louisiana,Louisiana Correctional Institute for Women,1,3,,,4/6/2020
+Prison,Louisiana,Louisiana State Penitentiary,7,5,,,4/6/2020
+Prison,Louisiana,Raymond Laborde Correctional Center,5,2,,,4/6/2020
+Prison,Maine,State-Wide (Adult),1,0,,,4/6/2020
+Prison,Maine,State-Wide (Juvenile),,0,,,4/6/2020
+Prison,Maryland,State-Wide,12,3,,,4/6/2020
+Prison,Massachusetts,State-Wide,10,24,,2,4/6/2020
+Prison,Michigan,Charles E. Egeler Reception and Guidance Center,0,10,0,0,4/6/2020
+Prison,Michigan,Cooper Street Correctional Facility,1,0,0,0,4/6/2020
+Prison,Michigan,Detroit Detention Center,2,0,0,0,4/6/2020
+Prison,Michigan,Detroit Reentry Center,7,11,1,0,4/6/2020
+Prison,Michigan,Duane Waters Health Center,0,0,0,0,4/6/2020
+Prison,Michigan,Kinross Correctional Facility,0,1,0,0,4/6/2020
+Prison,Michigan,Lakeland Correctional Facility,9,31,0,0,4/6/2020
+Prison,Michigan,Macomb Correctional Facility,6,55,0,0,4/6/2020
+Prison,Michigan,Newberry Correctional Facility ,0,1,0,0,4/6/2020
+Prison,Michigan,Parnall Correctional Facility,32,102,0,1,4/6/2020
+Prison,Michigan,Saginaw Correctional Facility,2,0,0,0,4/6/2020
+Prison,Michigan,Thumb Correctional Facility,2,0,0,0,4/6/2020
+Prison,Michigan,Women's Huron Valley Correctional Facility,5,25,0,0,4/6/2020
+Prison,Michigan,Woodland Center Correctional Facility,10,2,0,0,4/6/2020
+Prison,Minnesota,Togo,,0,,0,4/6/2020
+Prison,Minnesota,Willow River,,0,,0,4/6/2020
+Prison,Minnesota,Moose Lake,2,9,,0,4/6/2020
+Prison,Minnesota,Rush City,,0,,0,4/6/2020
+Prison,Minnesota,St. Cloud,,0,,0,4/6/2020
+Prison,Minnesota,Lino Lakes,,0,,0,4/6/2020
+Prison,Minnesota,Stillwater,,0,,0,4/6/2020
+Prison,Minnesota,Oak Park Heights,,0,,0,4/6/2020
+Prison,Minnesota,Shakopee,,0,,0,4/6/2020
+Prison,Minnesota,Faribault,,0,,0,4/6/2020
+Prison,Minnesota,Red Wing,,0,,0,4/6/2020
+Prison,Mississippi,State-Wide,3,0,0,0,4/6/2020
+Prison,Missouri,State-Wide,5,1,,,4/6/2020
+Prison,Montana,Montana State Prison - Secure - State,,0,,,4/6/2020
+Prison,Montana,Montana Women's Prison - Secure - State,,0,,,4/6/2020
+Prison,Montana,Pine Hills Correctional Facility - Secure - State,,0,,,4/6/2020
+Prison,Montana,Crossroads Correctional Center - Secure - Contracted,,0,,,4/6/2020
+Prison,Montana,Dawson County Correctional Facility - Secure - Contracted,,0,,,4/6/2020
+Prison,Montana,Great Falls Regional Prison - Secure - Contracted,,0,,,4/6/2020
+Prison,Montana,Missoula Assessment and Sanction Center - Secure Contracted,,0,,,4/6/2020
+Prison,Montana,Alpha House - Billings - Community,,0,,,4/6/2020
+Prison,Montana,Butte Prerelease Center - Butte - Community,,0,,,4/6/2020
+Prison,Montana,CCP East - Butte - Community,,0,,,4/6/2020
+Prison,Montana,CCP West and WATCh West - Warm Springs - Community,,0,,,4/6/2020
+Prison,Montana,Elkhorn Treatment Center - Boulder - Community,,0,,,4/6/2020
+Prison,Montana,Gallatin Reentry Program - Bozeman - Community,,2,,,4/6/2020
+Prison,Montana,Great Falls Transition Center - Great Falls - Community,,0,,,4/6/2020
+Prison,Montana,Helena Prerelease Center - Helena - Community,,0,,,4/6/2020
+Prison,Montana,Missoula Prerelease Center - Missoula - Community,,0,,,4/6/2020
+Prison,Montana,Nexus treatment Program - Lewistown - Community,,0,,,4/6/2020
+Prison,Montana,Passages - Billings - Community,,0,,,4/6/2020
+Prison,Montana,START Assessment Center - Anaconda - Community,,0,,,4/6/2020
+Prison,Montana,WATCh East - Glendive - Community,,0,,,4/6/2020
+Prison,Nebraska,State-Wide,1,,,,4/6/2020
+Prison,Nevada,Casa Grande Transitional Housing Las Vegas,1,,,,4/6/2020
+Prison,Nevada,Ely State Prison,1,,,,4/6/2020
+Prison,Nevada,High Desert State Prison Indian Valley,1,,,,4/6/2020
+Prison,New Hampshire,NH State Prison For Men,1,0,,,4/6/2020
+Prison,New Jersey,Adult Diagnostic and Treatment Center,3,0,,,4/6/2020
+Prison,New Jersey,Bayside State Prison,0,0,,,4/6/2020
+Prison,New Jersey,Central Office Headquarters,0,0,,,4/6/2020
+Prison,New Jersey,Central Reception and Assignment Facility,6,0,,,4/6/2020
+Prison,New Jersey,Correctional State Training Academy,2,0,,,4/6/2020
+Prison,New Jersey,Custody Recruitment Unit,1,0,,,4/6/2020
+Prison,New Jersey,East Jersey State Prison,6,0,,,4/6/2020
+Prison,New Jersey,Edna Mahan Correctional Facility for Women,12,2,,,4/6/2020
+Prison,New Jersey,Garden State Youth Correctional Facility,8,0,,,4/6/2020
+Prison,New Jersey,Mid-State Correctional,0,0,,,4/6/2020
+Prison,New Jersey,Moutainview Youth Correctional Facility,7,0,,,4/6/2020
+Prison,New Jersey,New Jersey State Prison,3,1,,,4/6/2020
+Prison,New Jersey,Northern State Prison,17,2,,,4/6/2020
+Prison,New Jersey,South Woods State Prison,0,0,,,4/6/2020
+Prison,New Jersey,Southern State Correctional Facility,1,0,,,4/6/2020
+Prison,New Jersey,STU,1,0,,,4/6/2020
+Prison,New Mexico,State-Wide,,1,,,4/5/2020
+Prison,New York,State-Wide,201,36,1,2,4/6/2020
+Prison,North Carolina,State-Wide,5,8,,,4/6/2020
+Prison,North Dakota,NDSP,,0,,0,4/6/2020
+Prison,North Dakota,JRCC,,0,,0,4/6/2020
+Prison,North Dakota,MRCC,,0,,0,4/6/2020
+Prison,North Dakota,YCC,,0,,0,4/6/2020
+Prison,Ohio,State-Wide (for staff count),3,0,,,4/6/2020
+Prison,Ohio,Allen Oakwood CI,,0,,,4/6/2020
+Prison,Ohio,Belmont CI,,0,,,4/6/2020
+Prison,Ohio,Chillicothe CI,,0,,,4/6/2020
+Prison,Ohio,Correctional Reception Center,,0,,,4/6/2020
+Prison,Ohio,Dayton CI,,0,,,4/6/2020
+Prison,Ohio,Franklin Medical Center,,0,,,4/6/2020
+Prison,Ohio,Grafton CI,,0,,,4/6/2020
+Prison,Ohio,Lake Erie CI,,0,,,4/6/2020
+Prison,Ohio,Lebanon CI,,0,,,4/6/2020
+Prison,Ohio,London CI,,0,,,4/6/2020
+Prison,Ohio,Lorain CI,,0,,,4/6/2020
+Prison,Ohio,Madison CI,,0,,,4/6/2020
+Prison,Ohio,Mansfield CI,,0,,,4/6/2020
+Prison,Ohio,Marion CI,,5,,,4/6/2020
+Prison,Ohio,Noble CI,,0,,,4/6/2020
+Prison,Ohio,North Central CC,,0,,,4/6/2020
+Prison,Ohio,Northeast Ohio CC,,0,,,4/6/2020
+Prison,Ohio,Northeast Reintegration Center,,0,,,4/6/2020
+Prison,Ohio,Ohio Reformatory for Women,,0,,,4/6/2020
+Prison,Ohio,Ohio State Penitentiary,,0,,,4/6/2020
+Prison,Ohio,Pickaway CI,,5,,,4/6/2020
+Prison,Ohio,Richland CI,,0,,,4/6/2020
+Prison,Ohio,Ross CI,,0,,,4/6/2020
+Prison,Ohio,Southeastern CI,,0,,,4/6/2020
+Prison,Ohio,Southern Ohio Correctional Facility,,0,,,4/6/2020
+Prison,Ohio,Toledo CI,,0,,,4/6/2020
+Prison,Ohio,Trumbull CI,,0,,,4/6/2020
+Prison,Ohio,Warren CI,,0,,,4/6/2020
+Prison,Oklahoma,State-Wide,1,0,,,4/6/2020
+Prison,Oregon,Coffee Creek Correctional Facility,0,0,,,4/6/2020
+Prison,Oregon,Columbia River Correctional Institution,0,0,,,4/6/2020
+Prison,Oregon,Deer Ridge Correctional Institution,0,0,,,4/6/2020
+Prison,Oregon,Eastern Oregon Correctional Institution,0,0,,,4/6/2020
+Prison,Oregon,Mill Creek Correctional Facility,0,0,,,4/6/2020
+Prison,Oregon,Oregon State Correctional Institution,0,0,,,4/6/2020
+Prison,Oregon,Oregon State Penitentiary,2,0,,,4/6/2020
+Prison,Oregon,Powder River Correctional Facility,0,0,,,4/6/2020
+Prison,Oregon,Santiam Correctional Institution,1,3,,,4/6/2020
+Prison,Oregon,Shutter Creek Correctional Institution,0,0,,,4/6/2020
+Prison,Oregon,Snake River Correctional Institution,0,0,,,4/6/2020
+Prison,Oregon,South Fork Forest Camp,0,0,,,4/6/2020
+Prison,Oregon,Two Rivers Correctional Institution,0,0,,,4/6/2020
+Prison,Oregon,Warner Creek Correctional Facility,0,0,,,4/6/2020
+Prison,Pennsylvania,Central Office,1,0,,,4/6/2020
+Prison,Pennsylvania,Albion,1,0,,,4/6/2020
+Prison,Pennsylvania,Benner Township,0,0,,,4/6/2020
+Prison,Pennsylvania,Cambridge Springs,0,0,,,4/6/2020
+Prison,Pennsylvania,Camp Hill,2,0,,,4/6/2020
+Prison,Pennsylvania,Chester,1,0,,,4/6/2020
+Prison,Pennsylvania,Coal Township,0,0,,,4/6/2020
+Prison,Pennsylvania,Dallas,0,0,,,4/6/2020
+Prison,Pennsylvania,Fayette,0,0,,,4/6/2020
+Prison,Pennsylvania,Forest,0,0,,,4/6/2020
+Prison,Pennsylvania,Frackville,0,0,,,4/6/2020
+Prison,Pennsylvania,Greene,0,0,,,4/6/2020
+Prison,Pennsylvania,Houtzdale,0,0,,,4/6/2020
+Prison,Pennsylvania,Huntingdon,0,0,,,4/6/2020
+Prison,Pennsylvania,Laurel Highlands,0,0,,,4/6/2020
+Prison,Pennsylvania,Mahanoy,0,0,,,4/6/2020
+Prison,Pennsylvania,Mercer,0,0,,,4/6/2020
+Prison,Pennsylvania,Muncy,0,0,,,4/6/2020
+Prison,Pennsylvania,Phoenix,1,2,,,4/6/2020
+Prison,Pennsylvania,Pine Grove,0,0,,,4/6/2020
+Prison,Pennsylvania,Quehanna Boot Camp,0,0,,,4/6/2020
+Prison,Pennsylvania,Retreat,1,0,,,4/6/2020
+Prison,Pennsylvania,Rockview,0,0,,,4/6/2020
+Prison,Pennsylvania,Smithfield,1,0,,,4/6/2020
+Prison,Pennsylvania,Somerset,0,0,,,4/6/2020
+Prison,Pennsylvania,Waymart,1,0,,,4/6/2020
+Prison,Rhode Island,State-Wide,2,0,,,4/6/2020
+Prison,Rhode Island,Cranston Adult Women's CI,3,0,,,4/6/2020
+Prison,South Carolina,Allendale,0,0,,,4/6/2020
+Prison,South Carolina,Broad River,5,0,,,4/6/2020
+Prison,South Carolina,Camille Graham,2,0,,,4/6/2020
+Prison,South Carolina,Evans,0,0,,,4/6/2020
+Prison,South Carolina,Goodman,0,0,,,4/6/2020
+Prison,South Carolina,Kershaw,0,0,,,4/6/2020
+Prison,South Carolina,Kirkland,0,0,,,4/6/2020
+Prison,South Carolina,Leath,0,0,,,4/6/2020
+Prison,South Carolina,Lee,1,0,,,4/6/2020
+Prison,South Carolina,Lieber,0,0,,,4/6/2020
+Prison,South Carolina,Livesay,1,0,,,4/6/2020
+Prison,South Carolina,MacDougall,0,0,,,4/6/2020
+Prison,South Carolina,Manning,0,0,,,4/6/2020
+Prison,South Carolina,McCormick,0,0,,,4/6/2020
+Prison,South Carolina,Palmer,0,0,,,4/6/2020
+Prison,South Carolina,Perry,0,0,,,4/6/2020
+Prison,South Carolina,Ridgeland,0,0,,,4/6/2020
+Prison,South Carolina,Trenton,0,0,,,4/6/2020
+Prison,South Carolina,Turbeville,1,0,,,4/6/2020
+Prison,South Carolina,Tyger River,0,0,,,4/6/2020
+Prison,South Carolina,Wateree River,1,0,,,4/6/2020
+Prison,South Carolina,Non-Institutional Staff,8,0,,,4/6/2020
+Prison,South Dakota,State-Wide,1,1,,,4/6/2020
+Prison,Tennessee,State-Wide,1,1,,,4/6/2020
+Prison,Texas,State-Wide (staff only),28,0,,,4/6/2020
+Prison,Texas,Allred,,0,,,4/6/2020
+Prison,Texas,Baten,,0,,,4/6/2020
+Prison,Texas,Bell,,0,,,4/6/2020
+Prison,Texas,Beto,,6,,,4/6/2020
+Prison,Texas,Boyd,,0,,,4/6/2020
+Prison,Texas,Bradshaw,,0,,,4/6/2020
+Prison,Texas,Bridgeport,,0,,,4/6/2020
+Prison,Texas,Briscoe,,0,,,4/6/2020
+Prison,Texas,Byrd,,0,,,4/6/2020
+Prison,Texas,Clemens,,0,,,4/6/2020
+Prison,Texas,Clements,,0,,,4/6/2020
+Prison,Texas,Coffield,,0,,,4/6/2020
+Prison,Texas,Cole,,0,,,4/6/2020
+Prison,Texas,Connally,,0,,,4/6/2020
+Prison,Texas,Cotulla,,0,,,4/6/2020
+Prison,Texas,Crain,,0,,,4/6/2020
+Prison,Texas,Dalhart,,0,,,4/6/2020
+Prison,Texas,Daniel,,0,,,4/6/2020
+Prison,Texas,Darrington,,0,,,4/6/2020
+Prison,Texas,Diboll,,0,,,4/6/2020
+Prison,Texas,Dominguez,,0,,,4/6/2020
+Prison,Texas,Duncan,,0,,,4/6/2020
+Prison,Texas,Eastham,,0,,,4/6/2020
+Prison,Texas,ETTF,,0,,,4/6/2020
+Prison,Texas,Ellis,,0,,,4/6/2020
+Prison,Texas,Estelle,,0,,,4/6/2020
+Prison,Texas,Estes,,0,,,4/6/2020
+Prison,Texas,Ferguson,,0,,,4/6/2020
+Prison,Texas,Formby,,0,,,4/6/2020
+Prison,Texas,Fort Stockton,,0,,,4/6/2020
+Prison,Texas,Garza East,,0,,,4/6/2020
+Prison,Texas,Garza West,,0,,,4/6/2020
+Prison,Texas,Gist,,0,,,4/6/2020
+Prison,Texas,Glossbrenner,,0,,,4/6/2020
+Prison,Texas,Goodman,,0,,,4/6/2020
+Prison,Texas,Goree,,2,,,4/6/2020
+Prison,Texas,Gurney,,0,,,4/6/2020
+Prison,Texas,Halbert,,0,,,4/6/2020
+Prison,Texas,Hamilton,,0,,,4/6/2020
+Prison,Texas,Havins,,0,,,4/6/2020
+Prison,Texas,Henley,,0,,,4/6/2020
+Prison,Texas,Hightower,,0,,,4/6/2020
+Prison,Texas,Hilltop,,0,,,4/6/2020
+Prison,Texas,Hobby,,0,,,4/6/2020
+Prison,Texas,Hodge,,0,,,4/6/2020
+Prison,Texas,Holliday,,0,,,4/6/2020
+Prison,Texas,Hospital Galveston,,0,,,4/6/2020
+Prison,Texas,Hughes,,0,,,4/6/2020
+Prison,Texas,Huntsville,,0,,,4/6/2020
+Prison,Texas,Hutchins,,0,,,4/6/2020
+Prison,Texas,Jester 1,,0,,,4/6/2020
+Prison,Texas,Jester 3,,0,,,4/6/2020
+Prison,Texas,Jester 4,,0,,,4/6/2020
+Prison,Texas,Johnston,,0,,,4/6/2020
+Prison,Texas,Jordan,,1,,,4/6/2020
+Prison,Texas,Kegans,,0,,,4/6/2020
+Prison,Texas,Kyle,,0,,,4/6/2020
+Prison,Texas,LeBlanc,,0,,,4/6/2020
+Prison,Texas,Lewis,,0,,,4/6/2020
+Prison,Texas,Lindsay,,0,,,4/6/2020
+Prison,Texas,Lockhart,,0,,,4/6/2020
+Prison,Texas,Lopez,,0,,,4/6/2020
+Prison,Texas,Luther,,0,,,4/6/2020
+Prison,Texas,Lychner,,1,,,4/6/2020
+Prison,Texas,Lynaugh,,0,,,4/6/2020
+Prison,Texas,Marlin,,0,,,4/6/2020
+Prison,Texas,McConnell,,0,,,4/6/2020
+Prison,Texas,Michael,,0,,,4/6/2020
+Prison,Texas,Middleton,,0,,,4/6/2020
+Prison,Texas,Montford,,0,,,4/6/2020
+Prison,Texas,Moore B.,,0,,,4/6/2020
+Prison,Texas,Moore C.,,0,,,4/6/2020
+Prison,Texas,Mountain View,,0,,,4/6/2020
+Prison,Texas,Murray,,4,,,4/6/2020
+Prison,Texas,Neal,,0,,,4/6/2020
+Prison,Texas,Ney,,0,,,4/6/2020
+Prison,Texas,Pack,,0,,,4/6/2020
+Prison,Texas,Plane,,0,,,4/6/2020
+Prison,Texas,Polunsky,,0,,,4/6/2020
+Prison,Texas,Powledge,,0,,,4/6/2020
+Prison,Texas,Ramsey,,0,,,4/6/2020
+Prison,Texas,Roach,,0,,,4/6/2020
+Prison,Texas,Robertson,,0,,,4/6/2020
+Prison,Texas,Rudd,,0,,,4/6/2020
+Prison,Texas,Sanchez,,0,,,4/6/2020
+Prison,Texas,Sansaba,,0,,,4/6/2020
+Prison,Texas,Sayle,,0,,,4/6/2020
+Prison,Texas,Scott,,0,,,4/6/2020
+Prison,Texas,Segovia,,0,,,4/6/2020
+Prison,Texas,Skyview,,0,,,4/6/2020
+Prison,Texas,Smith,,0,,,4/6/2020
+Prison,Texas,Stevenson,,0,,,4/6/2020
+Prison,Texas,Stiles,,0,,,4/6/2020
+Prison,Texas,Stringfellow,,2,,,4/6/2020
+Prison,Texas,Telford,,0,,,4/6/2020
+Prison,Texas,Terrell,,0,,,4/6/2020
+Prison,Texas,Torres,,0,,,4/6/2020
+Prison,Texas,Travis,,0,,,4/6/2020
+Prison,Texas,Tulia,,0,,,4/6/2020
+Prison,Texas,Vance,,0,,,4/6/2020
+Prison,Texas,Wallace,,0,,,4/6/2020
+Prison,Texas,Wheeler,,0,,,4/6/2020
+Prison,Texas,Willacy,,0,,,4/6/2020
+Prison,Texas,Woodman,,2,,,4/6/2020
+Prison,Texas,Wynne,,1,,,4/6/2020
+Prison,Texas,Young,,0,,,4/6/2020
+Prison,Texas,Bambi,,0,,,4/6/2020
+Prison,Utah,State-Wide,0,1,,,4/6/2020
+Prison,Vermont,State-Wide (inmates only until also provided),0,0,,,4/6/2020
+Prison,Vermont,CRCF,0,0,,,4/6/2020
+Prison,Vermont,MVRCF,0,0,,,4/6/2020
+Prison,Vermont,NECC,0,0,,,4/6/2020
+Prison,Vermont,NSCF,1,0,,,4/6/2020
+Prison,Vermont,NWSCF,2,0,,,4/6/2020
+Prison,Vermont,SSCF,0,0,,,4/6/2020
+Prison,Vermont,BAPP,0,0,,,4/6/2020
+Prison,Vermont,BEPP,0,0,,,4/6/2020
+Prison,Vermont,BRPP,0,0,,,4/6/2020
+Prison,Vermont,BUPP,0,0,,,4/6/2020
+Prison,Vermont,HAPP,0,0,,,4/6/2020
+Prison,Vermont,MIPP,0,0,,,4/6/2020
+Prison,Vermont,MOPP,0,0,,,4/6/2020
+Prison,Vermont,NEPP,0,0,,,4/6/2020
+Prison,Vermont,RUPP,0,0,,,4/6/2020
+Prison,Vermont,SAPP,0,0,,,4/6/2020
+Prison,Vermont,SJPP,0,0,,,4/6/2020
+Prison,Vermont,CO,0,0,,,4/6/2020
+Prison,Virginia,Appalachian Men’s CCAP,0,0,,,4/6/2020
+Prison,Virginia,Augusta Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Baskerville Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Bland Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Brunswick CCAP,0,0,,,4/6/2020
+Prison,Virginia,Buckingham Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Caroline Correctional Unit,0,0,,,4/6/2020
+Prison,Virginia,Central Virginia Correctional Unit #13,0,6,,,4/6/2020
+Prison,Virginia,Chesterfield Women’s CCAP,0,0,,,4/6/2020
+Prison,Virginia,Coffeewood Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Cold Springs CCAP,0,0,,,4/6/2020
+Prison,Virginia,Cold Springs Correctional Unit #10,0,0,,,4/6/2020
+Prison,Virginia,Deerfield Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Deerfield Men's Work Center,0,0,,,4/6/2020
+Prison,Virginia,Deerfield Men's Work Center 2,0,0,,,4/6/2020
+Prison,Virginia,Dillwyn Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Fluvanna Correctional Center for Women,0,0,,,4/6/2020
+Prison,Virginia,Green Rock Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Greensville Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Greensville Work Center,0,0,,,4/6/2020
+Prison,Virginia,Halifax Correctional Unit,0,0,,,4/6/2020
+Prison,Virginia,Harrisonburg Men’s CCAP,0,0,,,4/6/2020
+Prison,Virginia,Haynesville Correctional Center,1,0,,,4/6/2020
+Prison,Virginia,Haynesville Correctional Unit #17,0,0,,,4/6/2020
+Prison,Virginia,Indian Creek Correctional Center,1,0,,,4/6/2020
+Prison,Virginia,Keen Mountain Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Lawrenceville Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Lunenburg Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Marion Correctional Treatment Center,0,0,,,4/6/2020
+Prison,Virginia,Nottoway Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Nottoway Work Center,0,0,,,4/6/2020
+Prison,Virginia,Patrick Henry Correctional Unit,0,0,,,4/6/2020
+Prison,Virginia,Pocahontas State Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Red Onion State Prison,0,0,,,4/6/2020
+Prison,Virginia,River North Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Rustburg Correctional Unit,0,0,,,4/6/2020
+Prison,Virginia,St. Brides Correctional Center,0,0,,,4/6/2020
+Prison,Virginia,Stafford Men’s CCAP,0,0,,,4/6/2020
+Prison,Virginia,State Farm Correctional Center,1,0,,,4/6/2020
+Prison,Virginia,State Farm Enterprise Unit,0,0,,,4/6/2020
+Prison,Virginia,State Farm Work Center,0,0,,,4/6/2020
+Prison,Virginia,Sussex I State Prison,0,0,,,4/6/2020
+Prison,Virginia,Sussex II State Prison,0,0,,,4/6/2020
+Prison,Virginia,Virginia Correctional Center for Women,4,12,,,4/6/2020
+Prison,Virginia,Wallens Ridge State Prison,0,0,,,4/6/2020
+Prison,Virginia,Wise Correctional Unit,0,0,,,4/6/2020
+Prison,Virginia,Probation & Parole — Eastern Region,2,,,,4/6/2020
+Prison,Virginia,Probation & Parole — Central Region,0,,,,4/6/2020
+Prison,Virginia,Probation & Parole — Western Region,0,,,,4/6/2020
+Prison,Virginia,Community Hospital Patients,0,1,,,4/6/2020
+Prison,Washington,Airway Heights Corrections Center,0,0,,,4/6/2020
+Prison,Washington,Cedar Creek Corrections Center,0,0,,,4/6/2020
+Prison,Washington,Clallam Bay Corrections Center,0,0,,,4/6/2020
+Prison,Washington,Coyote Ridge Corrections Center,1,0,,,4/6/2020
+Prison,Washington,Larch Corrections Center,0,0,,,4/6/2020
+Prison,Washington,Mission Creek Corrections Center for Women,0,0,,,4/6/2020
+Prison,Washington,Monroe Correctional Complex,3,1,,,4/6/2020
+Prison,Washington,Olympic Corrections Center,0,0,,,4/6/2020
+Prison,Washington,Stafford Creek Corrections Center,0,0,,,4/6/2020
+Prison,Washington,Washington Corrections Center,2,0,,,4/6/2020
+Prison,Washington,Washington Corrections Center for Women,0,0,,,4/6/2020
+Prison,Washington,Washington State Penitentiary,0,0,,,4/6/2020
+Prison,West Virginia,State-Wide,,,,,4/6/2020
+Prison,Wisconsin,Columbia Correctional Institution,2,2,,,4/6/2020
+Prison,Wisconsin,Milwaukee Secure Detention Facility,4,0,,,4/6/2020
+Prison,Wisconsin,Oshkosh Correctional Institution,0,2,,,4/6/2020
+Prison,Wisconsin,Waupun Correctional Institution,1,0,,,4/6/2020
+Prison,Wyoming,State-Wide,0,0,,,4/6/2020
+Prison,Federal,USP Atlanta ,3,10,0,0,4/6/2020
+Prison,Federal,"RRC Phoenix, AZ",0,1,0,0,4/6/2020
+Prison,Federal,FCI Bennettsville,0,1,0,0,4/6/2020
+Prison,Federal,MDC Brooklyn,6,2,0,0,4/6/2020
+Prison,Federal,FCI Butner Low ,0,14,0,0,4/6/2020
+Prison,Federal,FMC Butner,1,1,0,0,4/6/2020
+Prison,Federal,FCI Butner Medium I ,0,39,0,0,4/6/2020
+Prison,Federal,"RRC Brooklyn, NY ",0,4,0,0,4/6/2020
+Prison,Federal,USP Canaan,1,1,0,0,4/6/2020
+Prison,Federal,FMC Carswell,0,1,0,0,4/6/2020
+Prison,Federal,"Central Office, Washington, DC; ",1,0,0,0,4/6/2020
+Prison,Federal,"RRC Chicago, IL",0,1,0,0,4/6/2020
+Prison,Federal,MMC Chicago,3,0,0,0,4/6/2020
+Prison,Federal,"RRC Wilmington, DE",0,1,0,0,4/6/2020
+Prison,Federal,FCI Cumberland,0,1,0,0,4/6/2020
+Prison,Federal,FCI Danbury ,7,22,0,0,4/6/2020
+Prison,Federal,"RRC St Louis, MO",0,1,0,0,4/6/2020
+Prison,Federal,FCI Elkton ,1,8,0,3,4/6/2020
+Prison,Federal,FCI Forrest City Low ,2,9,0,0,4/6/2020
+Prison,Federal,FCI Forrest City Medium ,2,2,0,0,4/6/2020
+Prison,Federal,FCI Fort Dix,1,0,0,0,4/6/2020
+Prison,Federal,"Grand Prairie Office Complex, Grand Prairie, TX; ",1,0,0,0,4/6/2020
+Prison,Federal,USP Leavenworth,1,0,0,0,4/6/2020
+Prison,Federal,USP Lompoc,5,23,0,0,4/6/2020
+Prison,Federal,FCI Milan ,1,3,0,0,4/6/2020
+Prison,Federal,MCC New York ,6,4,0,0,4/6/2020
+Prison,Federal,FCI Oakdale I ,4,22,0,5,4/6/2020
+Prison,Federal,FCI Otisville,3,1,0,0,4/6/2020
+Prison,Federal,FCI Ray Brook,6,0,0,0,4/6/2020
+Prison,Federal,"Southeast Regional Office, Atlanta, GA.",1,0,0,0,4/6/2020
+Prison,Federal,FCI Talladega,3,0,0,0,4/6/2020
+Prison,Federal,FCI Tucson,1,0,0,0,4/6/2020
+Prison,Federal,"RRC Metairie, LA",0,1,0,0,4/6/2020
+Prison,Federal,FCI Yazoo City Medium ,1,6,0,0,4/6/2020
+Prison,Federal,FCI Yazoo City Low ,2,2,0,0,4/6/2020
+Prison,Federal,USP Yazoo City ,0,14,0,0,4/6/2020
+Prison,Federal,"RRC Baltimore, MD",0,1,0,0,4/6/2020
+Prison,Federal,"RRC Dallas, TX",0,1,0,0,4/6/2020
+Prison,Federal,FLM Guam,0,1,0,0,4/6/2020

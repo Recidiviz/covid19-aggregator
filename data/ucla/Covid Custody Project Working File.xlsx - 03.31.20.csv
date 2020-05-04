@@ -1,0 +1,157 @@
+Facility,State,Name,Staff Confirmed,Residents confirmed,Staff Deaths,Resident Deaths,Date
+Prison,Illinois,Crossroads ATC,1,0,,,3/31/2020
+Prison,Illinois,Joliet Treatment Center,1,0,,,3/31/2020
+Prison,Illinois,Menard,1,0,,,3/31/2020
+Prison,Illinois,North Lawndale ATC ,1,4,,,3/31/2020
+Prison,Illinois,Sheridan,1,0,,,3/31/2020
+Prison,Illinois,Stateville,15,28,,,3/31/2020
+Prison,Illinois,Stateville NRC,4,0,,,3/31/2020
+Prison,California,ASP-Avenal State Prison ,,0,,,3/31/2020
+Prison,California,CAC-California City Correctional Facility ,,0,,,3/31/2020
+Prison,California,CAL-Calipatria State Prison ,,0,,,3/31/2020
+Prison,California,CCC-California Correctional Center ,,0,,,3/31/2020
+Prison,California,CCI-California Correctional Institution ,,0,,,3/31/2020
+Prison,California,CCWF-Central California Women’s Facility ,,0,,,3/31/2020
+Prison,California,"CEN-California State Prison, Centinela ",,0,,,3/31/2020
+Prison,California,CHCF-California Health Care Facility ,1,0,,,3/31/2020
+Prison,California,CIM-California Institution for Men ,11,1,,,3/31/2020
+Prison,California,CIW-California Institution for Women ,,0,,,3/31/2020
+Prison,California,CMC-California Men’s Colony ,,0,,,3/31/2020
+Prison,California,CMF-California Medical Facility ,,0,,,3/31/2020
+Prison,California,"COR-California State Prison, Corcoran ",,0,,,3/31/2020
+Prison,California,CRC-California Rehabilitation Center ,,0,,,3/31/2020
+Prison,California,CTF-Correctional Training Facility ,,0,,,3/31/2020
+Prison,California,CVSP-Chuckawalla Valley State Prison ,,0,,,3/31/2020
+Prison,California,DVI-Deuel Vocational Institution ,,0,,,3/31/2020
+Prison,California,FSP-Folsom State Prison ,1,0,,,3/31/2020
+Prison,California,HDSP-High Desert State Prison ,,0,,,3/31/2020
+Prison,California,ISP-Ironwood State Prison ,,0,,,3/31/2020
+Prison,California,KVSP-Kern Valley State Prison ,,0,,,3/31/2020
+Prison,California,"LAC-California State Prison, Los Angeles County ",,3,,,3/31/2020
+Prison,California,MCSP-Mule Creek State Prison ,,0,,,3/31/2020
+Prison,California,NKSP-North Kern State Prison ,,0,,,3/31/2020
+Prison,California,PBSP-Pelican Bay State Prison ,,0,,,3/31/2020
+Prison,California,PVSP-Pleasant Valley State Prison ,,0,,,3/31/2020
+Prison,California,RJD-Richard J. Donovan Correctional Facility ,,0,,,3/31/2020
+Prison,California,"SAC-California State Prison, Sacramento ",3,0,,,3/31/2020
+Prison,California,"SATF-CSP-California Substance Abuse Treatment Facility and State Prison, Corcoran ",1,0,,,3/31/2020
+Prison,California,SCC-Sierra Conservation Center ,,0,,,3/31/2020
+Prison,California,"SOL-California State Prison, Solano ",,0,,,3/31/2020
+Prison,California,SQ-San Quentin State Prison ,1,0,,,3/31/2020
+Prison,California,SVSP-Salinas Valley State Prison ,1,0,,,3/31/2020
+Prison,California,VSP-Valley State Prison ,,0,,,3/31/2020
+Prison,California,WSP-Wasco State Prison ,,0,,,3/31/2020
+Prison,California,Northern California Youth Correctional Center,1,,,,3/31/2020
+Prison,Washington,Airway Heights Corrections Center,0,0,,,3/31/2020
+Prison,Washington,Cedar Creek Corrections Center,0,0,,,3/31/2020
+Prison,Washington,Clallam Bay Corrections Center,0,0,,,3/31/2020
+Prison,Washington,Coyote Ridge Corrections Center,0,0,,,3/31/2020
+Prison,Washington,Larch Corrections Center,0,0,,,3/31/2020
+Prison,Washington,Mission Creek Corrections Center for Women,0,0,,,3/31/2020
+Prison,Washington,Monroe Correctional Complex,3,0,,,3/31/2020
+Prison,Washington,Olympic Corrections Center,0,0,,,3/31/2020
+Prison,Washington,Stafford Creek Corrections Center,0,0,,,3/31/2020
+Prison,Washington,Washington Corrections Center,1,0,,,3/31/2020
+Prison,Washington,Washington Corrections Center for Women,0,0,,,3/31/2020
+Prison,Washington,Washington State Penitentiary,0,0,,,3/31/2020
+Work Release,Washington,Ahtanum View Work Release,0,0,,,3/31/2020
+Work Release,Washington,Bellingham Work Release,0,0,,,3/31/2020
+Work Release,Washington,Bishop Lewis Work Release,0,0,,,3/31/2020
+Work Release,Washington,Brownstone Work Release,0,0,,,3/31/2020
+Work Release,Washington,Eleanor Chase House Work Release,0,0,,,3/31/2020
+Work Release,Washington,Helen B. Ratcliff Work Release,0,0,,,3/31/2020
+Work Release,Washington,Longview Work Release,0,0,,,3/31/2020
+Work Release,Washington,Olympia Work Release,0,0,,,3/31/2020
+Work Release,Washington,Peninsula Work Release**,2,0,,,3/31/2020
+Work Release,Washington,Progress House Work Release,0,0,,,3/31/2020
+Work Release,Washington,Reynolds Work Release,0,0,,,3/31/2020
+Work Release,Washington,Tri-Cities Work Release,0,0,,,3/31/2020
+Prison,Pennsylvania,State-Wide,3,1,,,3/31/2020
+Prison,Alabama,State-Wide,1,0,,,3/31/2020
+Prison,Alaska,State-Wide,,,,,3/31/2020
+Prison,Arizona,State-Wide,,0,,,3/31/2020
+Prison,Arkansas,State-Wide,,,,,3/31/2020
+Prison,Colorado,State-Wide,2,0,,,3/31/2020
+Prison,Connecticut,State-Wide,3,2,,,3/31/2020
+Prison,Delaware,State-Wide,,0,,,3/31/2020
+Prison,Florida,Apalachee CI,1,0,,,3/31/2020
+Prison,Florida,Blackwater CF (Geo Group),3,0,,,3/31/2020
+Prison,Florida,Century CI,1,0,,,3/31/2020
+Prison,Florida,Everglades CI,1,0,,,3/31/2020
+Prison,Florida,FWRC,1,0,,,3/31/2020
+Prison,Florida,Marion CI,1,0,,,3/31/2020
+Prison,Florida,Sumter CI,1,0,,,3/31/2020
+Prison,Florida,Zephyrhills CI,1,0,,,3/31/2020
+Prison,Florida,Community Corrections Region 3,1,,,,3/31/2020
+Prison,Florida,Community Corrections Region 4,1,,,,3/31/2020
+Prison,Georgia,Autry State Prison,1,0,,,3/31/2020
+Prison,Georgia,Bainbridge PSAT,1,1,,,3/31/2020
+Prison,Georgia,Burruss CTC,1,0,,,3/31/2020
+Prison,Georgia,Calhoun State Prison,1,0,,,3/31/2020
+Prison,Georgia,Johnson State Prison,0,1,,,3/31/2020
+Prison,Georgia,Lee State Prison,5,7,,1,3/31/2020
+Prison,Georgia,Phillips State Prison,1,1,,,3/31/2020
+Prison,Georgia,Phillips TC,1,0,,,3/31/2020
+Prison,Georgia,Ware State Prison,1,0,,,3/31/2020
+Prison,Georgia,Wheeler Correctional Facility,0,1,,,3/31/2020
+Prison,Hawaii,State-Wide,,,,,3/31/2020
+Prison,Idaho,State-Wide,,0,,,3/31/2020
+Prison,Indiana,State-Wide,,0,,,3/31/2020
+Prison,Iowa,State-Wide,,,,,3/31/2020
+Prison,Kansas,State-Wide,,0,,,3/31/2020
+Prison,Kentucky,State-Wide,,,,,3/31/2020
+Prison,Louisiana,State-Wide,13,1,,,3/31/2020
+Prison,Maine,State-Wide (Adult),,0,,,3/31/2020
+Prison,Maine,State-Wide (Juvenile),,0,,,3/31/2020
+Prison,Maryland,State-Wide,,,,,3/31/2020
+Prison,Massachusetts,State-Wide,,,,,3/31/2020
+Prison,Michigan,Detroit Reentry Center,,4,,,3/31/2020
+Prison,Michigan,Duane Waters Health Center,,1,,,3/31/2020
+Prison,Michigan,Kinross Correctional Facility,,1,,,3/31/2020
+Prison,Michigan,Lakeland Correctional Facility,,8,,,3/31/2020
+Prison,Michigan,Macomb Correctional Facility,,27,,,3/31/2020
+Prison,Michigan,Newberry Correctional Facility ,,1,,,3/31/2020
+Prison,Michigan,Parnall Correctional Facility,,29,,,3/31/2020
+Prison,Michigan,Women's Huron Valley Correctional Facility,,7,,,3/31/2020
+Prison,Michigan,Woodland Center Correctional Facility,,2,,,3/31/2020
+Prison,Minnesota,Togo,,0,,,3/31/2020
+Prison,Minnesota,Willow River,,0,,,3/31/2020
+Prison,Minnesota,Moose Lake,,1,,,3/31/2020
+Prison,Minnesota,Rush City,,0,,,3/31/2020
+Prison,Minnesota,St. Cloud,,0,,,3/31/2020
+Prison,Minnesota,Lino Lakes,,0,,,3/31/2020
+Prison,Minnesota,Stillwater,,0,,,3/31/2020
+Prison,Minnesota,Oak Park Heights,,0,,,3/31/2020
+Prison,Minnesota,Shakopee,,0,,,3/31/2020
+Prison,Minnesota,Faribault,,0,,,3/31/2020
+Prison,Minnesota,Red Wing,,0,,,3/31/2020
+Prison,Mississippi,State-Wide,,0,,,3/31/2020
+Prison,Missouri,State-Wide,2,1,,,3/31/2020
+Prison,Montana,State-Wide,,0,,,3/31/2020
+Prison,Nebraska,State-Wide,,,,,3/31/2020
+Prison,Nevada,State-Wide,,,,,3/31/2020
+Prison,New Hampshire,State-Wide,0,0,,,3/31/2020
+Prison,New Jersey,State-Wide,,,,,3/31/2020
+Prison,New Mexico,State-Wide,,,,,3/31/2020
+Prison,New York,State-Wide,105,14,,,3/31/2020
+Prison,North Carolina,State-Wide,,0,,,3/31/2020
+Prison,North Dakota,NDSP,,0,,,3/31/2020
+Prison,North Dakota,JRCC,,0,,,3/31/2020
+Prison,North Dakota,MRCC,,0,,,3/31/2020
+Prison,North Dakota,YCC,,0,,,3/31/2020
+Prison,Ohio,State-Wide,1,0,,,3/31/2020
+Prison,Oklahoma,State-Wide,,,,,3/31/2020
+Prison,Oregon,State-Wide,,0,,,3/31/2020
+Prison,Rhode Island,State-Wide,1,,,,3/31/2020
+Prison,South Carolina,State-Wide,4,,,,3/31/2020
+Prison,South Dakota,State-Wide,1,,,,3/31/2020
+Prison,Tennessee,State-Wide,1,,,,3/31/2020
+Prison,Texas,State-Wide,3,2,,,3/31/2020
+Prison,Utah,State-Wide,0,0,,,3/31/2020
+Prison,Vermont,State-Wide,1,0,,,3/31/2020
+Prison,Virginia,State-Wide,3,3,,,3/31/2020
+Prison,West Virginia,State-Wide,,,,,3/31/2020
+Prison,Wisconsin,Columbia Correctional Institution,2,0,,,3/31/2020
+Prison,Wisconsin,Milwaukee Secure Detention Facility,2,0,,,3/31/2020
+Prison,Wisconsin,Waupun Correctional Institution,1,0,,,3/31/2020
+Prison,Wyoming,State-Wide,0,0,,,3/31/2020
