@@ -14,8 +14,8 @@ class FunctionTests(unittest.TestCase):
               'Staff Tested Negative': '',
               'Staff Deaths': ''},
              'source_1'),
-            ({'Pop Tested': '60',
-              'Pop Tested Positive': '7',
+            ({'Pop Tested': '  60    ',  # whitespace shouldn't matter
+              'Pop Tested Positive': '7  ',
               'Pop Tested Negative': '53',
               'Pop Deaths': '2',
               'Staff Tested': 'NA',

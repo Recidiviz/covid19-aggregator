@@ -8,7 +8,6 @@ OUTPUT_START_DATE = datetime.date(2020, 3, 31)
 OUTPUT_COLUMNS = ['Date',
                   'Facility Type',
                   'State',
-                  #'County',
                   'Canonical Facility Name',
                   'Pop Tested',
                   'Pop Tested Positive',
@@ -33,10 +32,8 @@ COLUMN_MAPPINGS = {
                           'Inmates Negative': 'Pop Tested Negative',
                           #'Inmates Pending': '',  # TODO: Determine what to do with this.
                           'Inmates Tested': 'Pop Tested',
-                          #'Inmates Recovered': '',
                           'Inmates Deaths': 'Pop Deaths'},
-  'UCLA Law Behind Bars': {#'Facility': '',  # facility type, e.g., "Prison"
-                           'State': 'State',  # Federal facilities have value of "Federal" for this column
+  'UCLA Law Behind Bars': {'State': 'State',  # Federal facilities have value of "Federal" for this column
                            'Name': SOURCE_FACILITY_NAME_COLUMN,
                            'Staff Confirmed': 'Staff Tested Positive',
                            'Residents confirmed': 'Pop Tested Positive',
@@ -44,9 +41,7 @@ COLUMN_MAPPINGS = {
                            'Resident Deaths': 'Pop Deaths',
                            'Date': 'Date'},
   'Recidiviz': {'As of...? (Date)': 'Date',
-                #'Facility Type': '',
                 'State': 'State',
-                #'County': '',
                 'Facility': SOURCE_FACILITY_NAME_COLUMN,
                 'Population Tested': 'Pop Tested',
                 'Population Tested Positive': 'Pop Tested Positive',

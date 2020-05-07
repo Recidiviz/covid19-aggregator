@@ -1,0 +1,941 @@
+State,Facility name,Source using this name
+Ohio,Trumbull CI,UCLA Law Behind Bars
+Oregon,Shutter Creek Correctional Institution,UCLA Law Behind Bars
+Connecticut,State-Wide,UCLA Law Behind Bars
+California,DVI-Deuel Vocational Institution,UCLA Law Behind Bars
+Illinois,Kewanee LSRC,covidprisondata.com
+Federal,Yazoo City Low FCI,UCLA Law Behind Bars
+Federal,Forth Worth FMC,UCLA Law Behind Bars
+Federal,FLM Guam,UCLA Law Behind Bars
+Mississippi,Carroll-Montgomery County Correctional Facility,covidprisondata.com
+Indiana,Edinburgh (JCU),UCLA Law Behind Bars
+Connecticut,York CI,UCLA Law Behind Bars
+California,Worksite - Riverside County,UCLA Law Behind Bars
+New Jersey,Mid-State Correctional,UCLA Law Behind Bars
+New Jersey,Bo Robinson Assessment and Treatment,covidprisondata.com
+Colorado,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Florida,Blackwater CF (Geo Group),UCLA Law Behind Bars
+Oklahoma,"Bridgeway, Inc. (Halfway House)",Recidiviz
+Maryland,Maryland Correctional institution for Women Jessup,UCLA Law Behind Bars
+Washington,Tri-Cities Work Release,covidprisondata.com
+Oklahoma,Kate Barnard Correctional Center,covidprisondata.com
+Minnesota,Togo,UCLA Law Behind Bars
+Delaware,Dover Probation and Parole,covidprisondata.com
+California,CVSP-Chuckawalla Valley State Prison,UCLA Law Behind Bars
+Tennessee,Tennessee Prison for women,UCLA Law Behind Bars
+Louisiana,"Federal Correctional Institution, Oakdale",Recidiviz
+Washington,Bellingham Work Release,covidprisondata.com
+Virginia,Chesterfield Women’s CCAP,covidprisondata.com
+Illinois,Parole,Recidiviz
+Montana,Nexus treatment Program - Lewistown - Community,UCLA Law Behind Bars
+Utah,Central Utah Correctional Facility - Gunnison,covidprisondata.com
+Oklahoma,Kate Barnard Community Corrections Center,Recidiviz
+Ohio,Marion CI,UCLA Law Behind Bars
+Federal,Coleman Low FCI,UCLA Law Behind Bars
+Idaho,ISCI,UCLA Law Behind Bars
+Federal,FCI Fort Dix,UCLA Law Behind Bars
+Illinois,Kewanee LSRC,UCLA Law Behind Bars
+Delaware,Seaford Probation & Parole Steven Floyd Training Academy,covidprisondata.com
+New Hampshire,All other staff worksites***,covidprisondata.com
+New Jersey,Clinton House,covidprisondata.com
+Wisconsin,Black River CC,UCLA Law Behind Bars
+South Carolina,Non-Institutional Staff,covidprisondata.com
+Wisconsin,John C. Burke CC,UCLA Law Behind Bars
+Washington,Community Corrections Section 2,covidprisondata.com
+Montana,State-Wide (for staff count),UCLA Law Behind Bars
+New Jersey,Hope Hall,covidprisondata.com
+California,Valley State Prison (VSPW),Recidiviz
+Texas,"Federal Correctional Institution, Beaumont (Low)",Recidiviz
+Michigan,Ionia Correctional Facilty,UCLA Law Behind Bars
+Missouri,Jefferson City,UCLA Law Behind Bars
+Oklahoma,Howard McLeod Correctional Center,Recidiviz
+Florida,Northwest Florida Reception Center,Recidiviz
+New York,A L L  J A I L S,Recidiviz
+Kansas,"GEO Reentry, Inc. (RRC)",Recidiviz
+Federal,"RRC Chicago, IL",UCLA Law Behind Bars
+North Carolina,"Federal Correctional Institution, Butner",Recidiviz
+Oklahoma,Jess Dunn Correctional Center,covidprisondata.com
+Federal,MMC Chicago,UCLA Law Behind Bars
+Massachusetts,BSH,UCLA Law Behind Bars
+Oklahoma,Union City Community Corrections Center,Recidiviz
+Georgia,Autry State Prison,UCLA Law Behind Bars
+Florida,Apalachee CI,covidprisondata.com
+Mississippi,"Marshall County Correctional Facility, Holly Springs",covidprisondata.com
+Federal,MDC Brooklyn,UCLA Law Behind Bars
+Minnesota,Red Wing,Recidiviz
+Florida,New River CI,covidprisondata.com
+Virginia,Stafford Men’s CCAP,UCLA Law Behind Bars
+Maine,State-Wide (Juvenile),UCLA Law Behind Bars
+Federal,"Talladega, AL",UCLA Law Behind Bars
+Oklahoma,Oklahoma State Penitentiary,covidprisondata.com
+New Hampshire,NH State Prison For Men,UCLA Law Behind Bars
+Washington,Community Corrections Section 5,covidprisondata.com
+Connecticut,New Haven CC,UCLA Law Behind Bars
+Vermont,SAPP,UCLA Law Behind Bars
+Michigan,"Cherry Street Services, Inc. (RRC) - Grand Rapids",Recidiviz
+Delaware,"Community Solutions, Inc. (RRC)",Recidiviz
+Pennsylvania,Training Academy,covidprisondata.com
+Alaska,Lemon Creek CC (Juneau),UCLA Law Behind Bars
+Alabama,ALL OF ALABAMA PRISONS (See notes),Recidiviz
+Oklahoma,William S. Key Correctional Center,covidprisondata.com
+Arkansas,Cummins Unit Prison,UCLA Law Behind Bars
+Federal,Brooklyn MDC,UCLA Law Behind Bars
+Florida,Community Corrections Region 2,covidprisondata.com
+South Dakota,Yankton Community Work Center,covidprisondata.com
+Montana,Great Falls Transition Center - Great Falls - Community,UCLA Law Behind Bars
+Federal,"Grand Prairie Office Complex, Grand Prairie, TX;",UCLA Law Behind Bars
+Nevada,ALL NEVADA STATE FACILITIES,Recidiviz
+Delaware,Georgetown Administrative Services,covidprisondata.com
+Mississippi,"Mississippi State Penitentiary, Parchman",covidprisondata.com
+Indiana,Edinburgh Correction Facility Johnson County,UCLA Law Behind Bars
+Indiana,Indiana Women's Prison Marion County,UCLA Law Behind Bars
+Florida,Central Florida Reception Center,Recidiviz
+California,WSP-Wasco State Prison,UCLA Law Behind Bars
+Hawaii,WCCC,UCLA Law Behind Bars
+Delaware,Hazel D. Plant Woman's Treatment Facility,covidprisondata.com
+Mississippi,"Federal Correctional Institution, Yazoo City (Medium)",Recidiviz
+Federal,USP Leavenworth,UCLA Law Behind Bars
+Arizona,MRC,covidprisondata.com
+Georgia,Atlanta TC,UCLA Law Behind Bars
+Missouri,Southeast CC,UCLA Law Behind Bars
+Minnesota,"Volunteers of America, Inc. (Minnesota) (RRC)",Recidiviz
+Tennessee,Morgan County Correctional Complex,UCLA Law Behind Bars
+Arizona,Red Rock,UCLA Law Behind Bars
+Ohio,Lorain CI,UCLA Law Behind Bars
+Texas,ETTF,UCLA Law Behind Bars
+Tennessee,Turney Center Industrial Complex,covidprisondata.com
+Arkansas,ALL OF ARKANSAS PRISONS (See notes),Recidiviz
+Wisconsin,Stanley CI,UCLA Law Behind Bars
+Connecticut,Garner CI,UCLA Law Behind Bars
+Federal,Otisville FCI,UCLA Law Behind Bars
+Federal,FCI Oakdale I,UCLA Law Behind Bars
+Florida,Florida Women's Reception Center,Recidiviz
+Washington,Mill Creek Regional Performance Center,covidprisondata.com
+Puerto Rico,Centro de Detención y Tratamiento Social de Bayamón,Recidiviz
+Hawaii,State-Wide,UCLA Law Behind Bars
+Ohio,Noble CI,UCLA Law Behind Bars
+Ohio,Pickaway CI,UCLA Law Behind Bars
+Montana,Dawson County Correctional Facility - Secure - Contracted,UCLA Law Behind Bars
+Oklahoma,OKC Transtional Center (Halfway House),Recidiviz
+Vermont,CRCF,UCLA Law Behind Bars
+Arizona,Marana,UCLA Law Behind Bars
+Federal,Coleman I USP,UCLA Law Behind Bars
+Oklahoma,Enid Community Corrections Center,Recidiviz
+Oklahoma,Bill Johnson Correctional Center,Recidiviz
+South Carolina,Non-Institutional Staff,UCLA Law Behind Bars
+Massachusetts,State-Wide (for staff count),UCLA Law Behind Bars
+Arizona,Phoenix West,UCLA Law Behind Bars
+Illinois,Joliet Treatment Center,covidprisondata.com
+New Jersey,Kintock Bridgeton 2,covidprisondata.com
+Vermont,MVRCF,UCLA Law Behind Bars
+Montana,Great Falls Regional Prison - Secure - Contracted,UCLA Law Behind Bars
+Idaho,SICI,UCLA Law Behind Bars
+Texas,State-Wide (staff only),UCLA Law Behind Bars
+Mississippi,Leake County Correctional Facility,covidprisondata.com
+Utah,UDC Inmates Housed at a County Jail,UCLA Law Behind Bars
+Oklahoma,Diamondback Correctional Facility (Private Prison),Recidiviz
+Wisconsin,Felmers O Chaney CC,UCLA Law Behind Bars
+New Hampshire,Field Services**,covidprisondata.com
+Federal,Fort Worth FMC,UCLA Law Behind Bars
+Oklahoma,Cimarron Correctional Facility (Private Prison),covidprisondata.com
+Indiana,Reception Diagnostic (RDC),UCLA Law Behind Bars
+Washington,Olympia Work Release,UCLA Law Behind Bars
+Federal,"RRC Brooklyn, NY",UCLA Law Behind Bars
+Puerto Rico,Centro de Detención del Oeste,Recidiviz
+Mississippi,George County Correctional Facility,covidprisondata.com
+Washington,Community Corrections Section 1,covidprisondata.com
+Oklahoma,James Crabtree Correctional Center,Recidiviz
+Massachusetts,MCI-Shirley,UCLA Law Behind Bars
+Federal,Volunteers of America (RRC),UCLA Law Behind Bars
+Connecticut,Northern CI,UCLA Law Behind Bars
+Oregon,Mill Creek Correctional Facility,UCLA Law Behind Bars
+Federal,Butner Medium I FCI,UCLA Law Behind Bars
+Wisconsin,Flambeau CC,UCLA Law Behind Bars
+Vermont,State-Wide (inmates only until also provided),UCLA Law Behind Bars
+North Carolina,"Federal Correctional Institution, Butner (Medium)",Recidiviz
+South Dakota,Rapid City Trustee Unit,Recidiviz
+Arizona,"Behavioral Systems Southwest, Inc. (RRC)",Recidiviz
+Missouri,Women's Eastern,UCLA Law Behind Bars
+Federal,"CORE Services Group, Inc. (RRC) - Brooklyn",UCLA Law Behind Bars
+California,FSP-Folsom State Prison,UCLA Law Behind Bars
+Washington,Progress House Work Release,covidprisondata.com
+Federal,Canaan USP,UCLA Law Behind Bars
+Wyoming,Women's Center in Lusk,UCLA Law Behind Bars
+Federal,"Kintock Group, The (RRC) - Philadelphia",UCLA Law Behind Bars
+Federal,Coleman II USP,UCLA Law Behind Bars
+Federal,FCI Talladega,UCLA Law Behind Bars
+Rhode Island,Intake Service Center,UCLA Law Behind Bars
+Georgia,GDCP,UCLA Law Behind Bars
+New York,"GEO Care, Inc. (RRC) - Bronx",Recidiviz
+Ohio,Mansfield CI,UCLA Law Behind Bars
+California,"COR-California State Prison, Corcoran",UCLA Law Behind Bars
+Federal,Tucson USP,UCLA Law Behind Bars
+Florida,Bay CF,UCLA Law Behind Bars
+Ohio,Toledo CI,UCLA Law Behind Bars
+Idaho,TVCRC,UCLA Law Behind Bars
+Minnesota,Willow River,UCLA Law Behind Bars
+Oklahoma,State-Wide,UCLA Law Behind Bars
+Ohio,Volunteers of America of Greater Ohio (RRC),Recidiviz
+Utah,Northern Utah Community Correctional Center,covidprisondata.com
+Missouri,"Southeast Missouri Behavioral Health, Inc.; DBA: SEMO CTC (RRC)",Recidiviz
+Tennessee,Turney Center Industrial Complex-Annex,covidprisondata.com
+New Jersey,Correctional State Training Academy,UCLA Law Behind Bars
+Federal,State-wide (for non-facility),UCLA Law Behind Bars
+Mississippi,Washington County Correctional Facility,covidprisondata.com
+California,CIW-California Institution for Women,UCLA Law Behind Bars
+Kentucky,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Wisconsin,Druge Abuse CC,UCLA Law Behind Bars
+Wisconsin,Fox Lake CI,UCLA Law Behind Bars
+Oklahoma,Charles E. Johnson Correctional Center,Recidiviz
+Massachusetts,"Community Resources for Justice, Inc. (RRC)",Recidiviz
+Minnesota,Red Wing,UCLA Law Behind Bars
+Federal,Victorville Medium II FCI,UCLA Law Behind Bars
+Michigan,Ernest C. Brooks Correctional Facility,UCLA Law Behind Bars
+Idaho,NICI,UCLA Law Behind Bars
+New York,"Volunteers of America of Western New York, Inc. (RRC)",Recidiviz
+Arkansas,State-Wide,UCLA Law Behind Bars
+South Dakota,State-Wide,UCLA Law Behind Bars
+New Jersey,Fenwick House,covidprisondata.com
+South Dakota,Sioux Falls Community Work Center,covidprisondata.com
+Connecticut,Cheshire CI,UCLA Law Behind Bars
+Federal,FMC Carswell,UCLA Law Behind Bars
+Idaho,ICIO,UCLA Law Behind Bars
+Ohio,State-Wide,UCLA Law Behind Bars
+Massachusetts,Boston Pre,UCLA Law Behind Bars
+Washington,County Jail,covidprisondata.com
+Wisconsin,Marshall E. Sherrer CC,UCLA Law Behind Bars
+Idaho,SAWC,UCLA Law Behind Bars
+Federal,"Chicago, IL",UCLA Law Behind Bars
+Hawaii,Waiawa Correctional Facility – Waipahu,Recidiviz
+Federal,Los Angeles MDC,UCLA Law Behind Bars
+California,ISP-Ironwood State Prison,UCLA Law Behind Bars
+Ohio,Southeastern CI,UCLA Law Behind Bars
+Connecticut,Manson Youth,UCLA Law Behind Bars
+Vermont,State-wide (for non-facility),UCLA Law Behind Bars
+Virginia,Stafford Men’s CCAP,covidprisondata.com
+New Mexico,State-Wide,UCLA Law Behind Bars
+Florida,New River CI,UCLA Law Behind Bars
+Federal,RCH,covidprisondata.com
+Federal,MCC New York,UCLA Law Behind Bars
+Delaware,Hazel D. Plant Woman's Treatment Facility,UCLA Law Behind Bars
+Florida,Community Corrections Region 1,UCLA Law Behind Bars
+Oklahoma,Lawton Correctional Facility (Private Prison),covidprisondata.com
+Massachusetts,Pondville,UCLA Law Behind Bars
+Federal,Milan FCI,UCLA Law Behind Bars
+Louisiana,State-Wide,UCLA Law Behind Bars
+Alabama,ALL OF ALABAMAS STATE prisonS,Recidiviz
+Mississippi,"South Mississippi Correctional Institution, Leakesville",covidprisondata.com
+Federal,YAP,covidprisondata.com
+Washington,Community Corrections Section 4,covidprisondata.com
+Oklahoma,Dick Conner Correctional Center,Recidiviz
+Idaho,SBWCC,UCLA Law Behind Bars
+Federal,"GEO Care, LLC (RCC) - Sacramento",UCLA Law Behind Bars
+Nevada,Casa Grande Prison,UCLA Law Behind Bars
+Federal,Pioneer Human Services; DBA: Pioneer Industries (RRC),UCLA Law Behind Bars
+Federal,La Tuna FCI,UCLA Law Behind Bars
+Virginia,Greensville Work Center,UCLA Law Behind Bars
+Alabama,Tutwiler QIF,covidprisondata.com
+California,VSP-Valley State Prison,UCLA Law Behind Bars
+Ohio,Richland CI,UCLA Law Behind Bars
+Nebraska,ALL NEBRASKA STATE FACILITIES,Recidiviz
+Arizona,Eyeman,UCLA Law Behind Bars
+Wisconsin,Winnebago CC,UCLA Law Behind Bars
+Texas,Grand Prairie,Recidiviz
+Utah,Fortitude Treatment Center,covidprisondata.com
+Connecticut,Bridgeport CC,UCLA Law Behind Bars
+Delaware,Delores J. Baylor Woman's Correctional Institution,covidprisondata.com
+New Jersey,Custody Recruitment Unit,UCLA Law Behind Bars
+Oklahoma,Mack Alford Correctional Center,covidprisondata.com
+New Hampshire,State-Wide,UCLA Law Behind Bars
+Washington,Reynolds Work Release,covidprisondata.com
+Washington,Community Medical Center,covidprisondata.com
+Virginia,Administration & Operations,covidprisondata.com
+Florida,Lake CIty CF,UCLA Law Behind Bars
+New Hampshire,SPU & RTU,UCLA Law Behind Bars
+Federal,Grand Prairie,UCLA Law Behind Bars
+Delaware,State-Wide,UCLA Law Behind Bars
+Federal,"Forrest City, AK",UCLA Law Behind Bars
+Federal,"RRC Wilmington, DE",UCLA Law Behind Bars
+Maine,State-Wide (Adult),UCLA Law Behind Bars
+Missouri,State-Wide,UCLA Law Behind Bars
+Delaware,New Castle Probation & Parole & Day Reporting Center (Hares Corner),covidprisondata.com
+Ohio,Northeast Ohio CC,UCLA Law Behind Bars
+Florida,Community Corrections Region 3,UCLA Law Behind Bars
+Texas,West Texas RMF,covidprisondata.com
+Oregon,Warner Creek Correctional Facility,UCLA Law Behind Bars
+Federal,Tallahassee FCI,UCLA Law Behind Bars
+Tennessee,Mark Luttrell Transition Center,UCLA Law Behind Bars
+Tennessee,Hardeman County Correctional Facility,UCLA Law Behind Bars
+New York,ALL OF STATE prisonS IN NEW YORK,Recidiviz
+Alaska,ALL OF ALASKA STATE prisonS,Recidiviz
+Connecticut,Brooklyn CI,UCLA Law Behind Bars
+California,NKSP-North Kern State Prison,UCLA Law Behind Bars
+Idaho,IFCRC,UCLA Law Behind Bars
+Vermont,State-Wide,UCLA Law Behind Bars
+Georgia,Phillips TC,UCLA Law Behind Bars
+Virginia,Harrisonburg Men’s CCAP,covidprisondata.com
+Washington,Progress House Work Release,UCLA Law Behind Bars
+Federal,"Leavenworth, KS",UCLA Law Behind Bars
+Maryland,Poplar Hill Pre-Release Unit,Recidiviz
+Federal,CLP,covidprisondata.com
+Connecticut,"Community Solutions, Inc. (RRC)",Recidiviz
+Indiana,Plainfield (IYC),UCLA Law Behind Bars
+Virginia,Probation & Parole — Western Region,UCLA Law Behind Bars
+Idaho,State-Wide,UCLA Law Behind Bars
+North Carolina,North Pied CRV,UCLA Law Behind Bars
+Wisconsin,St. Croix CC,UCLA Law Behind Bars
+Massachusetts,MA CI Shirley,UCLA Law Behind Bars
+Virginia,Harrisonburg Men’s CCAP,UCLA Law Behind Bars
+Rhode Island,State-Wide,UCLA Law Behind Bars
+Oklahoma,Joseph Harp Correctional Center,UCLA Law Behind Bars
+Federal,"Volunteers of America of Western New York, Inc. (RRC)",UCLA Law Behind Bars
+Florida,Blackwater CF,UCLA Law Behind Bars
+New Jersey,James A. Hemm House,covidprisondata.com
+Texas,"Federal Correctional Institution, Beaumont (Medium)",Recidiviz
+Indiana,Heritage Trail (HTCF),UCLA Law Behind Bars
+Iowa,State-Wide,UCLA Law Behind Bars
+Massachusetts,MTC,UCLA Law Behind Bars
+Rhode Island,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Hawaii,Halawa Correctional Facility – Aiea,Recidiviz
+Minnesota,State-Wide (for staff count),UCLA Law Behind Bars
+Kentucky,State-Wide,UCLA Law Behind Bars
+Oregon,Eastern Oregon Correctional Institution,UCLA Law Behind Bars
+Oklahoma,Oklahoma State Reformatory,covidprisondata.com
+Pennsylvania,"Kintock Group, The (RRC)",Recidiviz
+California,ASP-Avenal State Prison,UCLA Law Behind Bars
+Oklahoma,John Lilley Correctional Center,Recidiviz
+Federal,FCI Bennettsville,UCLA Law Behind Bars
+Federal,"Community Solutions, Inc. (RRC)",UCLA Law Behind Bars
+Puerto Rico,Hogar de Adaptación Social de Fajardo,Recidiviz
+Oregon,Powder River Correctional Facility,UCLA Law Behind Bars
+Tennessee,West Tennessee State Penitentiary,covidprisondata.com
+Delaware,Delores J. Baylor Woman's Correctional Institution,UCLA Law Behind Bars
+Kentucky,Roederer CC,UCLA Law Behind Bars
+Puerto Rico,Campamento Zarzal,Recidiviz
+Illinois,Joliet Treatment Center,UCLA Law Behind Bars
+Puerto Rico,Centro de Tratamiento Social de Ponce Ave. Tito Castro,Recidiviz
+Federal,FCI Elkton,UCLA Law Behind Bars
+Mississippi,Marion-Walthall County Correctional Facility,covidprisondata.com
+California,CHCF-California Health Care Facility,UCLA Law Behind Bars
+Federal,"Volunteers of America, Inc. (Minnesota) (RRC) - Minneapolis",UCLA Law Behind Bars
+Mississippi,"Central Mississippi Correctional Institution, Pearl",covidprisondata.com
+Oregon,State-Wide,UCLA Law Behind Bars
+Oregon,Deer Ridge Correctional Institution,UCLA Law Behind Bars
+Tennessee,Whiteville Correctional Facilty,UCLA Law Behind Bars
+Federal,GRA,covidprisondata.com
+Virginia,Probation & Parole — Eastern Region,covidprisondata.com
+Federal,USP Canaan,UCLA Law Behind Bars
+Florida,Community Corrections Region 4,UCLA Law Behind Bars
+Federal,Fort Dix FCI,UCLA Law Behind Bars
+Indiana,Miami (MCF),UCLA Law Behind Bars
+Maryland,Maryland Correctional Training Center Hagerstown,UCLA Law Behind Bars
+Arizona,State-Wide (for staff count),UCLA Law Behind Bars
+Oklahoma,North Fork Correctional Center,covidprisondata.com
+Oklahoma,Northeast Oklahoma Correctional Center,covidprisondata.com
+Federal,"Kintock Group, The (RRC) - Newark",UCLA Law Behind Bars
+Tennessee,Tennessee Prison for Women,covidprisondata.com
+Colorado,Colorado State Penitentiary II,Recidiviz
+Massachusetts,MCI-C,UCLA Law Behind Bars
+Federal,"Yazoo City, MS",UCLA Law Behind Bars
+Texas,No Longer in Custody,UCLA Law Behind Bars
+Missouri,State-wide (for non-facility),UCLA Law Behind Bars
+Florida,"Blackwater CFOperated by
+                   The GEO Group Inc.*",covidprisondata.com
+Missouri,Kansas City,UCLA Law Behind Bars
+Montana,WATCh East - Glendive - Community,UCLA Law Behind Bars
+Federal,Fairton FCI,UCLA Law Behind Bars
+Montana,Crossroads Correctional Center - Secure - Contracted,UCLA Law Behind Bars
+Connecticut,Willard Cybulski,UCLA Law Behind Bars
+Arizona,Florence West,UCLA Law Behind Bars
+New York,Rikers Island,UCLA Law Behind Bars
+Utah,Atherton Community Treatment Center,UCLA Law Behind Bars
+Indiana,Logansport Juvenile (LJCF),UCLA Law Behind Bars
+Oregon,South Fork Forest Camp,UCLA Law Behind Bars
+Colorado,Buena Vista Correctional Complex,UCLA Law Behind Bars
+Wisconsin,Chippewa Valley CTF,UCLA Law Behind Bars
+Federal,FCI Butner Low,UCLA Law Behind Bars
+Washington,Helen B. Ratcliff Work Release,UCLA Law Behind Bars
+Utah,Bonneville Community Correctional Center,covidprisondata.com
+Indiana,Westville (WCC),UCLA Law Behind Bars
+Louisiana,"Louisiana State Penitentiary,",Recidiviz
+Nevada,High Desert State Prison Indian Valley,UCLA Law Behind Bars
+Federal,Tucson FCI,UCLA Law Behind Bars
+Oklahoma,Lexington Assessment and Reception Center,covidprisondata.com
+Indiana,New Castle (NCCF),UCLA Law Behind Bars
+California,RJD-Richard J. Donovan Correctional Facility,UCLA Law Behind Bars
+Alaska,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Indiana,Indiana Women's Prison (IWP),UCLA Law Behind Bars
+Virginia,Community Hospital Patients,UCLA Law Behind Bars
+Oklahoma,Lawton Community Corrections Center,Recidiviz
+Georgia,Southeast RO,Recidiviz
+Federal,"RRC Metairie, LA",UCLA Law Behind Bars
+North Carolina,Dadidson CC,UCLA Law Behind Bars
+Federal,Elkton FCI,UCLA Law Behind Bars
+Massachusetts,SMCC,UCLA Law Behind Bars
+Federal,Terminal Island FCI,UCLA Law Behind Bars
+Tennessee,3,Recidiviz
+Mississippi,Holmes-Humphreys County Correctional Facility,covidprisondata.com
+Texas,Jesse R. Dawson Unit,Recidiviz
+Puerto Rico,Hogar Intermedio para Mujeres,Recidiviz
+Connecticut,Osborn CI,UCLA Law Behind Bars
+Florida,South Bay CF*,UCLA Law Behind Bars
+Arizona,Florence (AZ State Prison Complex),UCLA Law Behind Bars
+Oklahoma,Mabel Bassett Correctional Center,Recidiviz
+Delaware,Sussex Violation of Probation Center,UCLA Law Behind Bars
+Michigan,Jackson Regional Warehouse,UCLA Law Behind Bars
+Federal,"Grand Prairie Office Complex, Grand Prairie, TX",UCLA Law Behind Bars
+Wisconsin,Gordon CC,UCLA Law Behind Bars
+Nebraska,State-Wide,UCLA Law Behind Bars
+Mississippi,Issaquena County Correctional Facility,covidprisondata.com
+Federal,"Community Solutions, Inc. (RRC) - Hartford",UCLA Law Behind Bars
+Federal,"Tucson, AZ",UCLA Law Behind Bars
+North Carolina,Certie CI,UCLA Law Behind Bars
+Washington,Brownstone Work Release,UCLA Law Behind Bars
+Missouri,Western Missouri CC,UCLA Law Behind Bars
+Federal,YAM,covidprisondata.com
+Wisconsin,Wisconsin Secure PF,UCLA Law Behind Bars
+Oklahoma,Jackie Brannon Correctional Center,Recidiviz
+Federal,PHL,covidprisondata.com
+Oklahoma,Joseph Harp Correctional Center,covidprisondata.com
+Federal,"Southeast Regional Office, Atlanta, GA.",UCLA Law Behind Bars
+North Carolina,Albermarle CI,UCLA Law Behind Bars
+Oklahoma,Union City Community Corrections Center,covidprisondata.com
+Wisconsin,Redgranite CI,UCLA Law Behind Bars
+Illinois,Parole,covidprisondata.com
+Florida,South Bay CF,UCLA Law Behind Bars
+New Jersey,Moutainview Youth Correctional Facility,UCLA Law Behind Bars
+Wisconsin,Jackson CI,UCLA Law Behind Bars
+North Carolina,"Federal Medical Center, Butner",Recidiviz
+Ohio,Allen Oakwood CI,UCLA Law Behind Bars
+Federal,Lompoc USP,UCLA Law Behind Bars
+Washington,Ahtanum View Work Release,covidprisondata.com
+Florida,Coleman Low FCI,Recidiviz
+Utah,Utah State Prison - Draper,covidprisondata.com
+Indiana,Putnamville (ISF),UCLA Law Behind Bars
+Federal,BML,covidprisondata.com
+New Jersey,Tully House,covidprisondata.com
+Oklahoma,Davis Correctional Facility (Private Prison),covidprisondata.com
+Michigan,Charles E. Egeler Reception and Guidance Center,UCLA Law Behind Bars
+Mississippi,Jefferson-Franklin County Correctional Facility,covidprisondata.com
+Federal,McCreary USP,UCLA Law Behind Bars
+Florida,Community Corrections Region 1,UCLA Law Behind Bars
+Oklahoma,OVERALL OKLAHOMA,Recidiviz
+Federal,Ray Brook FCI,UCLA Law Behind Bars
+Utah,Atherton Community Treatment Center,covidprisondata.com
+Federal,Oakdale I FCI,UCLA Law Behind Bars
+Oklahoma,William S. Key Correctional Center,Recidiviz
+Virginia,Probation & Parole — Central Region,UCLA Law Behind Bars
+Missouri,Warrensburg,UCLA Law Behind Bars
+Louisiana,Volunteers of America (RRC),Recidiviz
+Georgia,Bainbridge PSAT,UCLA Law Behind Bars
+California,SVSP-Salinas Valley State Prison,UCLA Law Behind Bars
+Wisconsin,Taycheedah CI,UCLA Law Behind Bars
+Florida,Community Corrections Region 4,UCLA Law Behind Bars
+New Jersey,Kintock Newark,covidprisondata.com
+Montana,Alpha House - Billings - Community,UCLA Law Behind Bars
+Mississippi,Bolivar County Correctional Facility,covidprisondata.com
+Texas,Local Hospital,UCLA Law Behind Bars
+California,N.A. Chaderjian Youth Correctional Facility,UCLA Law Behind Bars
+Kentucky,Green River CC,UCLA Law Behind Bars
+Federal,Allenwood USP,UCLA Law Behind Bars
+Texas,Lyncher,Recidiviz
+Illinois,Kewanee LSRC,Recidiviz
+Wisconsin,Robert E. Ellsworth CC,UCLA Law Behind Bars
+Tennessee,Riverbend Maximum Security Institution,covidprisondata.com
+Federal,FCI Tucson,UCLA Law Behind Bars
+Maryland,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Arizona,State-Wide,UCLA Law Behind Bars
+Federal,Talladega FCI,UCLA Law Behind Bars
+Utah,Utah Department of Corrections,Recidiviz
+South Dakota,Yankton Trustee Unit,Recidiviz
+Missouri,Brookfield,UCLA Law Behind Bars
+Idaho,CAPP,UCLA Law Behind Bars
+Georgia,Turner RSTAT,UCLA Law Behind Bars
+Florida,State-wide (for non-facility),UCLA Law Behind Bars
+Tennessee,Women's Therapeutic Residential Center,UCLA Law Behind Bars
+Oklahoma,Jim E. Hamilton Correctional Center,covidprisondata.com
+Federal,Central Territorial of the Salvation Army; DBA Salvation Army Correctional Ser (RRC),UCLA Law Behind Bars
+Hawaii,HCF,UCLA Law Behind Bars
+Federal,FCI Otisville,UCLA Law Behind Bars
+Oklahoma,Probation and Parole Officers,covidprisondata.com
+Tennessee,Lois M. Derry Special Needs Facility,covidprisondata.com
+California,Worksite - Sacramento County,UCLA Law Behind Bars
+Oklahoma,Tulsa Transitional Center (Halfway House(,Recidiviz
+South Dakota,Rapid City Community Work Center,covidprisondata.com
+New York,State-Wide,UCLA Law Behind Bars
+Mississippi,"United States Penitentiary, Yazoo City",Recidiviz
+New Jersey,"CURA, Inc.",covidprisondata.com
+Federal,Southeast RO,UCLA Law Behind Bars
+Hawaii,Women's Community Correctional Center – Kailua,Recidiviz
+Tennessee,Northwest Correctional Complex,UCLA Law Behind Bars
+Federal,Allenwood Medium FCI,UCLA Law Behind Bars
+Alabama,State-Wide,UCLA Law Behind Bars
+Oklahoma,Oklahoma City Community Corrections Center,Recidiviz
+Wisconsin,Dodge CI,UCLA Law Behind Bars
+Federal,RRC Baltimore,UCLA Law Behind Bars
+Puerto Rico,Centro de Tratamiento Social de Villalba,Recidiviz
+Oklahoma,Eddie Warrior Correctional Center,covidprisondata.com
+Vermont,NSCF,UCLA Law Behind Bars
+Montana,State-Wide,UCLA Law Behind Bars
+California,"SAC-California State Prison, Sacramento",UCLA Law Behind Bars
+California,Worksite - San Bernardino County,UCLA Law Behind Bars
+Indiana,Pendleton Juvenile (PNJ),UCLA Law Behind Bars
+Hawaii,HCCC,UCLA Law Behind Bars
+California,CRC-California Rehabilitation Center,UCLA Law Behind Bars
+Washington,Longview Work Release,covidprisondata.com
+Federal,"Fort Dix, NJ",UCLA Law Behind Bars
+California,SCC-Sierra Conservation Center,UCLA Law Behind Bars
+Federal,"RRC Phoenix, AZ",UCLA Law Behind Bars
+Vermont,RUPP,UCLA Law Behind Bars
+Washington,Ahtanum View Work Release,UCLA Law Behind Bars
+,,UCLA Law Behind Bars
+Montana,Passages - Billings - Community,UCLA Law Behind Bars
+Ohio,London CI,UCLA Law Behind Bars
+North Carolina,"Federal Correctional Institution, Butner (Low)",Recidiviz
+Federal,BOP,covidprisondata.com
+Massachusetts,LSH,UCLA Law Behind Bars
+Utah,Northern Utah Community Correctional Center,UCLA Law Behind Bars
+Tennessee,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Federal,Butner Low FCI,UCLA Law Behind Bars
+California,"LAC-California State Prison, Los Angeles County",UCLA Law Behind Bars
+Indiana,Correctional Industrial (CIF),UCLA Law Behind Bars
+Federal,"Kintock Group, The (RRC)",UCLA Law Behind Bars
+Washington,Brownstone Work Release,covidprisondata.com
+Virginia,Chesterfield Women’s CCAP,UCLA Law Behind Bars
+Virginia,State Farm Work Center,UCLA Law Behind Bars
+Federal,Butner FMC,UCLA Law Behind Bars
+Texas,West Texas RMF,UCLA Law Behind Bars
+Indiana,Rockville (RTC),UCLA Law Behind Bars
+Florida,Franklin CI,UCLA Law Behind Bars
+Federal,FCI Forrest City Low,UCLA Law Behind Bars
+Michigan,Oaks Correctional Facilty,UCLA Law Behind Bars
+Wisconsin,Oregon CC,UCLA Law Behind Bars
+Arizona,PRC,covidprisondata.com
+Montana,Missoula Prerelease Center - Missoula - Community,UCLA Law Behind Bars
+Wyoming,State-Wide,UCLA Law Behind Bars
+Maryland,Metropolitan Transition Center Baltimore,UCLA Law Behind Bars
+New Hampshire,SPU & RTU,covidprisondata.com
+Virginia,Deerfield Men's Work Center 2,UCLA Law Behind Bars
+North Carolina,Balden CC,UCLA Law Behind Bars
+Federal,Community Education Centers; DBA: CEC (RRC),UCLA Law Behind Bars
+Washington,Community Corrections Section 7,covidprisondata.com
+Federal,Oakdale II FCI,UCLA Law Behind Bars
+Hawaii,KCCC,UCLA Law Behind Bars
+Virginia,Probation & Parole — Western Region,covidprisondata.com
+Texas,"Volunteers of America Texas, Inc. (RRC)",Recidiviz
+Massachusetts,SBCC,UCLA Law Behind Bars
+Ohio,Belmont CI,UCLA Law Behind Bars
+Federal,"Central Office, Washington, DC",UCLA Law Behind Bars
+Washington,Bishop Lewis Work Release,UCLA Law Behind Bars
+Federal,"Behavioral Systems Southwest, Inc. (RRC) - Los Angeles",UCLA Law Behind Bars
+Florida,Community Corrections Region 3,UCLA Law Behind Bars
+Mississippi,"East Mississippi Correctional Facility, Meridian",covidprisondata.com
+California,CIM-California Institution for Men,UCLA Law Behind Bars
+Tennessee,Turney Center - Annex,UCLA Law Behind Bars
+Montana,CCP West and WATCh West - Warm Springs - Community,UCLA Law Behind Bars
+Indiana,South Bend Community (SBCRC),UCLA Law Behind Bars
+Texas,Dick Ware Unit,Recidiviz
+Pennsylvania,Central Office,covidprisondata.com
+Federal,"Community Solutions, Inc. (RRC) - Wilmington",UCLA Law Behind Bars
+North Carolina,Avery-Mithcell CI,UCLA Law Behind Bars
+New Jersey,Central Office Headquarters,covidprisondata.com
+North Carolina,State-Wide,UCLA Law Behind Bars
+Federal,Cumberland FCI,UCLA Law Behind Bars
+Mississippi,Yazoo County Correctional Facility,covidprisondata.com
+Texas,Bambi,UCLA Law Behind Bars
+Oklahoma,OKC Transitional Center (Halfway House),covidprisondata.com
+California,CMC-California Men’s Colony,UCLA Law Behind Bars
+Federal,Englewood FCI,UCLA Law Behind Bars
+Florida,"South Bay CFOperated by
+                   The GEO Group Inc.*",covidprisondata.com
+Federal,FCI Danbury,UCLA Law Behind Bars
+Ohio,State-Wide (for staff count),UCLA Law Behind Bars
+Nevada,Southern Desert Correctional Springs,UCLA Law Behind Bars
+Oklahoma,Davis Correctional Facility (Private Prison),Recidiviz
+Federal,Central Office HQ,UCLA Law Behind Bars
+Tennessee,Lois M. Derry Special Needs Facility,UCLA Law Behind Bars
+Oklahoma,Tulsa Transitional Center (Halfway House),Recidiviz
+Oregon,Two Rivers Correctional Institution,UCLA Law Behind Bars
+California,"CEN-California State Prison, Centinela",UCLA Law Behind Bars
+Georgia,Bacon PDC,UCLA Law Behind Bars
+Florida,Graceville CF,UCLA Law Behind Bars
+Florida,Gadsden CF,UCLA Law Behind Bars
+Ohio,North Central CC,UCLA Law Behind Bars
+Delaware,Special Operations Group,covidprisondata.com
+Vermont,BUPP,UCLA Law Behind Bars
+Indiana,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Maryland,ALL MARYLAND STATE FACILITIES,Recidiviz
+Federal,"RRC St Louis, MO",UCLA Law Behind Bars
+Indiana,Wabash Valley (WVCF),UCLA Law Behind Bars
+New Jersey,Garrett House,covidprisondata.com
+Washington,Peninsula Work Release**,covidprisondata.com
+Washington,Community Corrections Section 6,covidprisondata.com
+Florida,Franklin Correctional Institution',Recidiviz
+Illinois,Joliet Treatment Center,Recidiviz
+Oklahoma,Bill Johnson Correctional Center,covidprisondata.com
+Massachusetts,MCI-CJ,UCLA Law Behind Bars
+Delaware,Northern New Castle County Adult Probation & Parole (Cherry Lane),covidprisondata.com
+Federal,"Behavioral Systems Southwest, Inc. (RRC) - Phoenix",UCLA Law Behind Bars
+Missouri,St. Louis,UCLA Law Behind Bars
+Connecticut,ALL OF CONNECTICUT STATE prisonS,Recidiviz
+Alaska,State-Wide,UCLA Law Behind Bars
+Texas,Bambi,covidprisondata.com
+Federal,FCI Milan,UCLA Law Behind Bars
+Federal,Oklahoma City FTC,UCLA Law Behind Bars
+Louisiana,B.B. Rayburn Correctional Center,UCLA Law Behind Bars
+Washington,Eleanor Chase House Work Release,UCLA Law Behind Bars
+Arkansas,ALL OF ARKANSAS STATE prisonS,Recidiviz
+Federal,Memphis FCI,UCLA Law Behind Bars
+Indiana,Logansport (LJCF),UCLA Law Behind Bars
+Ohio,Chillicothe CI,UCLA Law Behind Bars
+Virginia,State Farm Enterprise Unit,UCLA Law Behind Bars
+California,"GEO Reentry of Alaska, Inc. (RRC)",Recidiviz
+Pennsylvania,State-Wide,UCLA Law Behind Bars
+Ohio,Lebanon CI,UCLA Law Behind Bars
+Federal,BMM,covidprisondata.com
+California,Central California Women’s Facility (CCWF),covidprisondata.com
+Federal,Bennettsville FCI,UCLA Law Behind Bars
+Florida,Community Corrections Region 1,covidprisondata.com
+California,CCI-California Correctional Institution,UCLA Law Behind Bars
+Pennsylvania,Parole,covidprisondata.com
+Oklahoma,James Crabtree Correctional Center,covidprisondata.com
+Wisconsin,Oakhill CI,UCLA Law Behind Bars
+Tennessee,West Tennessee State Penitentiary,UCLA Law Behind Bars
+Utah,Central Utah Correctional Facility - Gunnison,UCLA Law Behind Bars
+Texas,Local Hospital,covidprisondata.com
+Federal,FCI Ray Brook,UCLA Law Behind Bars
+Wisconsin,Prairie du Chien CI,UCLA Law Behind Bars
+Puerto Rico,Institución Correccional Guerrero,Recidiviz
+Idaho,PWCC,UCLA Law Behind Bars
+Illinois,General Office,covidprisondata.com
+Federal,Carswell FMC,UCLA Law Behind Bars
+Wisconsin,Milwaukee Women's CC,UCLA Law Behind Bars
+Mississippi,"Wilkinson County Correctional Facility, Woodville",covidprisondata.com
+Oklahoma,Lawton Community Corrections Center,covidprisondata.com
+California,SQ-San Quentin State Prison,UCLA Law Behind Bars
+Oklahoma,Carver Transitional Center (Halfway House),covidprisondata.com
+Puerto Rico,Anexo Seguridad Máxima,Recidiviz
+Montana,Helena Prerelease Center - Helena - Community,UCLA Law Behind Bars
+Indiana,State-Wide,UCLA Law Behind Bars
+Virginia,Probation & Parole — Central Region,covidprisondata.com
+Federal,"RRC Dallas, TX",UCLA Law Behind Bars
+Federal,FMC Butner,UCLA Law Behind Bars
+Michigan,"Cherry Street Services, Inc. (RRC) - Detroit",Recidiviz
+Oklahoma,Oklahoma State Penitentiary,Recidiviz
+Oklahoma,Enid Community Corrections Center,covidprisondata.com
+Washington,Bishop Lewis Work Release,covidprisondata.com
+California,"SATF-CSP-California Substance Abuse Treatment Facility and State Prison, Corcoran",UCLA Law Behind Bars
+Washington,Reynolds Work Release,UCLA Law Behind Bars
+Connecticut,Corr-Rad CC,UCLA Law Behind Bars
+Montana,Gallatin Reentry Program - Bozeman - Community,UCLA Law Behind Bars
+New Hampshire,TWC & THU's*,covidprisondata.com
+Nevada,State-Wide,UCLA Law Behind Bars
+Massachusetts,State-Wide,UCLA Law Behind Bars
+New Jersey,"Kintock Group, The (RRC)",Recidiviz
+Florida,Community Corrections Region 2,UCLA Law Behind Bars
+Texas,Richard J. LeBlanc Unit,Recidiviz
+Utah,State-Wide,UCLA Law Behind Bars
+Washington,Bellingham Work Release,UCLA Law Behind Bars
+Tennessee,Northwest Correctional Complex - Tiptonville (East Region),Recidiviz
+Federal,Leavenworth USP,UCLA Law Behind Bars
+Pennsylvania,Community Education Centers; DBA: CEC (RRC),Recidiviz
+Texas,ETTF,covidprisondata.com
+Massachusetts,MA TC Bridgewater,UCLA Law Behind Bars
+North Carolina,Raleigh CCW,Recidiviz
+Louisiana,B.B. Rayburn Correctional Center,covidprisondata.com
+Vermont,NECC,UCLA Law Behind Bars
+Maryland,Dorsey Run Correctional Facility Jessup,UCLA Law Behind Bars
+Federal,Ray Brook,UCLA Law Behind Bars
+Rhode Island,Cranston Adult Women's CI,UCLA Law Behind Bars
+New York,ALL NEW YORK STATE PRISONS,Recidiviz
+Indiana,Indiana State Prison (ISP),UCLA Law Behind Bars
+Oklahoma,Howard McLeod Correctional Center,covidprisondata.com
+Mississippi,"Federal Correctional Institution, Yazoo City",Recidiviz
+Vermont,State-wide (for residents),UCLA Law Behind Bars
+Federal,FCI Yazoo City Medium,UCLA Law Behind Bars
+Virginia,Probation & Parole — Eastern Region,UCLA Law Behind Bars
+South Carolina,State-Wide,UCLA Law Behind Bars
+New Jersey,STU,covidprisondata.com
+Federal,Forrest City Low FCI,UCLA Law Behind Bars
+California,HDSP-High Desert State Prison,UCLA Law Behind Bars
+Oklahoma,Oklahoma State Reformatory,Recidiviz
+Washington,Eleanor Chase House Work Release,covidprisondata.com
+Florida,Moore Haven CF,UCLA Law Behind Bars
+Federal,Yazoo City Medium FCI,UCLA Law Behind Bars
+Federal,New York MCC,UCLA Law Behind Bars
+Connecticut,Carl Robinson CI,UCLA Law Behind Bars
+Massachusetts,MASAC,UCLA Law Behind Bars
+Wisconsin,Racine Youth Offender CF,UCLA Law Behind Bars
+Texas,State-Wide,UCLA Law Behind Bars
+Georgia,Arrendale State Prison,Recidiviz
+Oklahoma,Jess Dunn Correctional Center,Recidiviz
+Florida,Gadsden Re-Entry Center,covidprisondata.com
+Arizona,MRC,UCLA Law Behind Bars
+Montana,Montana Women's Prison - Secure - State,UCLA Law Behind Bars
+New Jersey,Fletcher House,covidprisondata.com
+Connecticut,Isolation Unit at Northern CI (might be double counting?),UCLA Law Behind Bars
+Colorado,State-Wide,UCLA Law Behind Bars
+California,Northern California Youth Correctional Center,UCLA Law Behind Bars
+Wisconsin,McNaughton CC,UCLA Law Behind Bars
+Illinois,Jacksonville,covidprisondata.com
+Hawaii,MCCC,UCLA Law Behind Bars
+Vermont,BAPP,UCLA Law Behind Bars
+Federal,"Community Resources for Justice, Inc. (RRC) - Boston",UCLA Law Behind Bars
+Federal,"CORE Services Group, Inc. (RRC)",UCLA Law Behind Bars
+Georgia,Mitchell County CI,UCLA Law Behind Bars
+Federal,"RRC Baltimore, MD",UCLA Law Behind Bars
+Federal,YAZ,covidprisondata.com
+Vermont,NEPP,UCLA Law Behind Bars
+Georgia,Colquitt County CI,UCLA Law Behind Bars
+Ohio,Dayton CI,UCLA Law Behind Bars
+Alaska,ALL OF ALASKA STATE PRISONS,Recidiviz
+Oregon,Snake River Correctional Institution,UCLA Law Behind Bars
+Oklahoma,Oklahoma City Community Corrections Center,covidprisondata.com
+Connecticut,MWCI,UCLA Law Behind Bars
+Utah,Utah State Prison -Draper,UCLA Law Behind Bars
+Oklahoma,Lawton Correctional Facility (Private Prison),Recidiviz
+California,CTF-Correctional Training Facility,UCLA Law Behind Bars
+Federal,GIL,covidprisondata.com
+Tennessee,Hardeman County Correctional Facility,covidprisondata.com
+Arizona,CACF,UCLA Law Behind Bars
+Federal,BUT,covidprisondata.com
+California,"SOL-California State Prison, Solano",UCLA Law Behind Bars
+Florida,Franklin CI,covidprisondata.com
+California,CMF-California Medical Facility,UCLA Law Behind Bars
+Vermont,MIPP,UCLA Law Behind Bars
+Indiana,Pendleton (ISR),UCLA Law Behind Bars
+Maryland,Jail Industries Building,UCLA Law Behind Bars
+Federal,Rock Valley Community Program (RRC),UCLA Law Behind Bars
+Delaware,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Mississippi,Alcorn County Correctional Facility,covidprisondata.com
+Indiana,Logansport Intake (LCU),UCLA Law Behind Bars
+Oklahoma,North Fork Correctional Facility,Recidiviz
+Connecticut,ALL OF CONNECTICUT STATE PRISONS,Recidiviz
+Wisconsin,Kettle Moraine CI,UCLA Law Behind Bars
+Montana,Elkhorn Treatment Center - Boulder - Community,UCLA Law Behind Bars
+Washington,Tri-Cities Work Release,UCLA Law Behind Bars
+Tennessee,State-Wide,UCLA Law Behind Bars
+Louisiana,"Federal Correctional Institution, Oakdale II",Recidiviz
+Federal,"Central Office, Washington, DC;",UCLA Law Behind Bars
+Indiana,LaPorte Juvenile (LPJ),UCLA Law Behind Bars
+Florida,"Bay CFOperated by
+                   The GEO Group Inc.*",covidprisondata.com
+Massachusetts,MCI-F,UCLA Law Behind Bars
+Ohio,Ross CI,UCLA Law Behind Bars
+Federal,Miami FDC,UCLA Law Behind Bars
+Alaska,ALL OF ALASKA PRISONS,Recidiviz
+South Dakota,Pierre Community Work Center,covidprisondata.com
+Nebraska,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Mississippi,Chickasaw County Correctional Facility,covidprisondata.com
+Virginia,Deerfield Men's Work Center,UCLA Law Behind Bars
+Montana,Missoula Assessment and Sanction Center - Secure Contracted,UCLA Law Behind Bars
+Federal,"Cherry Street Services, Inc. (RRC) - Detroit",UCLA Law Behind Bars
+Ohio,Warren CI,UCLA Law Behind Bars
+Nevada,Casa Grande Transitional Housing Las Vegas,UCLA Law Behind Bars
+Texas,State-wide (non-facility),UCLA Law Behind Bars
+Federal,Miami FCI,UCLA Law Behind Bars
+New Jersey,The Harbor House,covidprisondata.com
+California,MCSP-Mule Creek State Prison,UCLA Law Behind Bars
+Alaska,Goose Creek CC,UCLA Law Behind Bars
+New Hampshire,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Hawaii,WCF,UCLA Law Behind Bars
+Federal,USP Atlanta,UCLA Law Behind Bars
+Montana,CCP East - Butte - Community,UCLA Law Behind Bars
+Massachusetts,Non-Facility,UCLA Law Behind Bars
+Tennessee,Trousdale Turney CC,UCLA Law Behind Bars
+Montana,START Assessment Center - Anaconda - Community,UCLA Law Behind Bars
+New Jersey,Columbus House,covidprisondata.com
+Oregon,Santiam Correctional Institution,UCLA Law Behind Bars
+Federal,"Ray Brook, NY",UCLA Law Behind Bars
+New York,"CORE Services Group, Inc. (RRC)",Recidiviz
+Federal,Yazoo City USP,UCLA Law Behind Bars
+Puerto Rico,TOTAL - Departamento de Correccón y Rehabilitación,Recidiviz
+Oklahoma,Jackie Brannon Correctional Center,UCLA Law Behind Bars
+New Jersey,State-Wide,UCLA Law Behind Bars
+Georgia,Valdosta State Prison,UCLA Law Behind Bars
+Washington,Community Corrections Section 3,covidprisondata.com
+Puerto Rico,Anexo Guayama 296,Recidiviz
+New Jersey,Correctional Staff Training Academy,covidprisondata.com
+Utah,Bonneville Community Correctional Center,UCLA Law Behind Bars
+Federal,FCI Cumberland,UCLA Law Behind Bars
+Florida,New River CI,Recidiviz
+Arizona,Kingman,UCLA Law Behind Bars
+Florida,"Graceville CFOperated by
+                   The GEO Group Inc.*",covidprisondata.com
+Oklahoma,Dr. Eddie Warrior Correctional Center,Recidiviz
+Indiana,Chain O' Lakes (COL),UCLA Law Behind Bars
+Tennessee,Women's Therapeutic Residential Center,covidprisondata.com
+Delaware,John L. Webb Correctional Facility,Recidiviz
+North Carolina,Raleigh CCW,covidprisondata.com
+Nebraska,ALL OF STATE prisonS IN NEBRASKA,Recidiviz
+Hawaii,KCF,UCLA Law Behind Bars
+Federal,Forrest City Medium FCI,UCLA Law Behind Bars
+Oklahoma,Clara Waters Community Corrections Center,Recidiviz
+Tennessee,Northwest Correctional Complex,covidprisondata.com
+Wisconsin,Sanger B. Powers CC,UCLA Law Behind Bars
+Florida,Lake City CF,UCLA Law Behind Bars
+Wisconsin,"Community Corrections Region 3, Milwaukee",UCLA Law Behind Bars
+Wisconsin,New Lisbon CI,UCLA Law Behind Bars
+Virginia,State-Wide,UCLA Law Behind Bars
+Mississippi,State-Wide,UCLA Law Behind Bars
+Mississippi,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Massachusetts,MCI-Norfolk,UCLA Law Behind Bars
+Missouri,St. Joseph,UCLA Law Behind Bars
+Federal,"Behavioral Systems Southwest, Inc. (RRC)",UCLA Law Behind Bars
+Wyoming,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Oklahoma,Carver Transitional Center (Halfway House),Recidiviz
+Oklahoma,Tulsa Transitional Center (Halfway House),covidprisondata.com
+Indiana,Branchville (BTC),UCLA Law Behind Bars
+New York,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Federal,Atlanta USP,UCLA Law Behind Bars
+Mississippi,Kemper-Neshoba County Correctional Facility,covidprisondata.com
+Federal,Devens FMC,UCLA Law Behind Bars
+Oklahoma,Cimarron Correctional Facility (Private Prison),Recidiviz
+California,Richard A McGee Correctional Training Center - Galt,UCLA Law Behind Bars
+Vermont,NWSCF,UCLA Law Behind Bars
+Federal,USP Yazoo City,UCLA Law Behind Bars
+Pennsylvania,Central Office,UCLA Law Behind Bars
+Wisconsin,State-wide (for non-facility),UCLA Law Behind Bars
+Federal,FCI Butner Medium I,UCLA Law Behind Bars
+West Virginia,State-Wide,UCLA Law Behind Bars
+Virginia,State Farm Correctional Center,UCLA Law Behind Bars
+Alabama,Draper QIF,covidprisondata.com
+Alabama,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Massachusetts,NCCI-Gardn,UCLA Law Behind Bars
+Federal,FCI Forrest City Medium,UCLA Law Behind Bars
+Oklahoma,Joseph Harp Correctional Center,Recidiviz
+Oregon,Columbia River Correctional Institution,UCLA Law Behind Bars
+Virginia,Nottoway Work Center,UCLA Law Behind Bars
+Oklahoma,Jackie Brannon Correctional Center,covidprisondata.com
+California,KVSP-Kern Valley State Prison,UCLA Law Behind Bars
+New Jersey,Kintock Bridgeton 1,covidprisondata.com
+Florida,South Bay CF (Geo Group),UCLA Law Behind Bars
+Illinois,Central Territorial of the Salvation Army; DBA Salvation Army Correctional Ser (RRC),Recidiviz
+Tennessee,Northeast Correctional Complex - Mountain City (West Region),Recidiviz
+Wisconsin,Green Bay CI,UCLA Law Behind Bars
+California,PVSP-Pleasant Valley State Prison,UCLA Law Behind Bars
+California,NCYCC - Northern California Youth Correctional Center,UCLA Law Behind Bars
+Ohio,Grafton CI,UCLA Law Behind Bars
+Vermont,CO,UCLA Law Behind Bars
+Oregon,Coffee Creek Correctional Facility,UCLA Law Behind Bars
+Tennessee,South Central Facility in Clifton,UCLA Law Behind Bars
+Florida,Apalachee CI,UCLA Law Behind Bars
+Vermont,BEPP,UCLA Law Behind Bars
+Georgia,Clayton TC,UCLA Law Behind Bars
+North Carolina,Burke CRV Center,UCLA Law Behind Bars
+Idaho,NCRC,UCLA Law Behind Bars
+Maryland,State-Wide,UCLA Law Behind Bars
+New Jersey,Central Office Headquarters,UCLA Law Behind Bars
+District of Columbia,County-Wide,UCLA Law Behind Bars
+Federal,"Cherry Street Services, Inc. (RRC) - Grand Rapids",UCLA Law Behind Bars
+Florida,Community Corrections Region 3,covidprisondata.com
+Washington,Olympia Work Release,covidprisondata.com
+Vermont,BRPP,UCLA Law Behind Bars
+California,CAL-Calipatria State Prison,UCLA Law Behind Bars
+Oklahoma,Lexington Assessment and Reception Center,Recidiviz
+Puerto Rico,Anexo Custodia Mínima Ponce,Recidiviz
+Idaho,IMSI,UCLA Law Behind Bars
+Arizona,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Oklahoma,John Lilley Correctional Center,covidprisondata.com
+Federal,Danbury FCI,UCLA Law Behind Bars
+Idaho,ISCC,UCLA Law Behind Bars
+Vermont,HAPP,UCLA Law Behind Bars
+South Dakota,Pierre Community Work Center,UCLA Law Behind Bars
+Wisconsin,Kenosha CC,UCLA Law Behind Bars
+Federal,Dismas House of St. Louis (RRC),UCLA Law Behind Bars
+Utah,UDC Inmates Housed at a County Jail,covidprisondata.com
+Oklahoma,Mabel Bassett Correctional Center,covidprisondata.com
+Ohio,Lake Erie CI,UCLA Law Behind Bars
+Federal,Chicago MCC,UCLA Law Behind Bars
+Utah,Fortitude Treatment Center,UCLA Law Behind Bars
+Montana,Montana State Prison - Secure - State,UCLA Law Behind Bars
+Mississippi,Stone County Correctional Facility,covidprisondata.com
+North Carolina,State-Wide (staff only),UCLA Law Behind Bars
+Mississippi,State Penitentiary,UCLA Law Behind Bars
+Wisconsin,Racine CI/Sturtevant TF,UCLA Law Behind Bars
+Oregon,CCCF and Intake Center,covidprisondata.com
+Georgia,Metro TC,UCLA Law Behind Bars
+Puerto Rico,Centro de Tratamiento Social de Humacao,Recidiviz
+Indiana,Madison (MCU),UCLA Law Behind Bars
+Montana,Pine Hills Correctional Facility - Secure - State,UCLA Law Behind Bars
+Vermont,SSCF,UCLA Law Behind Bars
+Arizona,PRC,UCLA Law Behind Bars
+Federal,"Southeast Regional Office, Atlanta, GA",UCLA Law Behind Bars
+Washington,Longview Work Release,UCLA Law Behind Bars
+California,"Federal Correctional Institution, Victorville (Medium)",Recidiviz
+California,"Behavioral Systems Southwest, Inc. (RRC) - Los Angeles",Recidiviz
+Tennessee,Mark Luttrell Transition Center,covidprisondata.com
+Mississippi,"Federal Correctional Institution, Yazoo City (Low)",Recidiviz
+California,,Recidiviz
+Federal,"GEO Reentry of Alaska, Inc. (RRC)",UCLA Law Behind Bars
+California,"Substance Abuse Treatment Facility and State Prison, Corcoran",UCLA Law Behind Bars
+Florida,"Moore Haven CFOperated by
+                   The GEO Group Inc.*",covidprisondata.com
+Nevada,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Ohio,Madison CI,UCLA Law Behind Bars
+Oklahoma,Northeast Oklahoma Correctional Center,Recidiviz
+Oklahoma,North Fork Correctional Center,Recidiviz
+Oklahoma,Clara Waters Community Corrections Center,covidprisondata.com
+Missouri,Dismas House of St. Louis (RRC),Recidiviz
+Tennessee,Morgan County Correctional Complex,covidprisondata.com
+Vermont,MOPP,UCLA Law Behind Bars
+Idaho,"Eagle Pass, TX",UCLA Law Behind Bars
+Federal,Aliceville FCI,UCLA Law Behind Bars
+Federal,FCC Lompoc,UCLA Law Behind Bars
+California,CAC-California City Correctional Facility,UCLA Law Behind Bars
+Nebraska,ALL OF STATE PRISONS IN NEW YORK,Recidiviz
+New Jersey,Custody Recruitment Unit,covidprisondata.com
+Montana,Butte Prerelease Center - Butte - Community,UCLA Law Behind Bars
+Vermont,SJPP,UCLA Law Behind Bars
+Kansas,State-Wide,UCLA Law Behind Bars
+Hawaii,Kulani Correctional Facility – Hilo,Recidiviz
+California,"Substance Abuse Treatment Facility and State Prison, Corcoran",Recidiviz
+Delaware,Georgetown Probation & Parole,covidprisondata.com
+Maryland,Maryland Correctional Institution Jessup,UCLA Law Behind Bars
+Federal,Lompoc FCI,UCLA Law Behind Bars
+California,"GEO Care, LLC (RRC)",Recidiviz
+Federal,"USP Canaan, PA",UCLA Law Behind Bars
+Washington,Helen B. Ratcliff Work Release,covidprisondata.com
+Idaho,EBCRC,UCLA Law Behind Bars
+New Jersey,STU,UCLA Law Behind Bars
+Los Angeles,County-Wide,UCLA Law Behind Bars
+Puerto Rico,Anexo Sabana Hoyos 384,Recidiviz
+Federal,USP Lompoc,UCLA Law Behind Bars
+Federal,FCI Yazoo City Low,UCLA Law Behind Bars
+Utah,Orange Street Community Correctional Center,UCLA Law Behind Bars
+California,CCWF-Central California Women’s Facility,UCLA Law Behind Bars
+California,PBSP-Pelican Bay State Prison,UCLA Law Behind Bars
+Massachusetts,OCCC,UCLA Law Behind Bars
+Mississippi,Winston-Choctaw County Correctional Facility,covidprisondata.com
+Florida,Community Corrections Region 2,UCLA Law Behind Bars
+Washington,"Headquarters (TUM5, Airport Office, CI Headquarters, ISRB, SWRBO, SWR Performance Center, Maple Lane)",covidprisondata.com
+Wisconsin,Thompson CC,UCLA Law Behind Bars
+California,CCC-California Correctional Center,UCLA Law Behind Bars
+Oklahoma,State-Wide (for non-specific facilities),UCLA Law Behind Bars
+Tennessee,Riverbend Maximum Security Institution,UCLA Law Behind Bars
+California,California Men’s Colony (CMC),covidprisondata.com
+Texas,No Longer in Custody,covidprisondata.com
+Oklahoma,Dick Conner Correctional Center,covidprisondata.com
+Oklahoma,Jim E. Hamilton Correctional Center,Recidiviz
+Indiana,Plainfield Correctional Facility Hendricks County,UCLA Law Behind Bars
+South Dakota,Jameson Annex,covidprisondata.com
+Federal,FCI butner Medium I,UCLA Law Behind Bars
+Washington,Pioneer Human Services; DBA: Pioneer Industries (RRC),Recidiviz
+Georgia,Burruss CTC,UCLA Law Behind Bars
+Federal,"RRC Janesville, WI",UCLA Law Behind Bars
+Florida,Community Corrections Region 4,covidprisondata.com
+Oklahoma,"Bridgeway, Inc. (Halfway House)",covidprisondata.com
+Connecticut,Hartford CC,UCLA Law Behind Bars
+Hawaii,OCOC,UCLA Law Behind Bars
+Washington,Peninsula Work Release**,UCLA Law Behind Bars
+Oklahoma,Mack Alford Correctional Center,Recidiviz
+Federal,Seagoville FCI,UCLA Law Behind Bars
+Federal,SER,covidprisondata.com
+Louisiana,"Federal Correctional Institution, Oakdale I",Recidiviz
+Arkansas,ALL OF ARKANSAS STATE PRISONS,Recidiviz
+Wisconsin,Oshkosh Correctional Institution,UCLA Law Behind Bars
+Florida,Gadsden Re-Entry Center,Recidiviz
+Utah,Orange Street Community Correctional Center,covidprisondata.com
+Federal,Central Territorial of the Salvation Army; DBA Salvation Army Correctional Ser (RRC) - Chicago,UCLA Law Behind Bars
+Federal,FCC Oakdale,UCLA Law Behind Bars
+Illinois,Cook County,UCLA Law Behind Bars

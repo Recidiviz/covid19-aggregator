@@ -16,18 +16,20 @@ assert set(TEXT_COLUMNS).issubset(set(OUTPUT_COLUMNS))
 
 
 def get_value(row, column):
+  """Returns the numeric value for a column in a row, or None."""
   try:
     return int(row[column])
   except (KeyError, ValueError):
-    return ''
+    return None
 
 
 def merge_column(column, rows_with_sources, sources_used):
-  # Use the largest count since it was probably recorded latest in the day
-  rows_with_values = list(filter(lambda row_with_source: '' != get_value(row_with_source[0], column),
+  """Merges the values for an output column from multiple input rows into a single value."""
+  rows_with_values = list(filter(lambda row_with_source: get_value(row_with_source[0], column) is not None,
                                  rows_with_sources))
   row = None
   if rows_with_values:
+    # Use the largest count since it was probably recorded latest in the day
     row, source = max(rows_with_values,
                       key=lambda row_with_source: get_value(row_with_source[0], column))
 
@@ -38,6 +40,7 @@ def merge_column(column, rows_with_sources, sources_used):
 
 
 def merge_rows(rows_with_sources):
+  """Merges multiple input rows for the same date/facility into a single output row."""
   merged_row = {}
   sources_used = set()
 

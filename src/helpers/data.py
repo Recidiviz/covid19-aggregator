@@ -8,14 +8,18 @@ import constants
 
 
 def fetch_csv(url, as_dicts=False):
+  """Fetches a CSV from a given URL."""
   download = requests.get(url)
 
   decoded_content = download.content.decode('utf-8')
 
-  return list((csv.DictReader if as_dicts else csv.reader)(decoded_content.splitlines(), delimiter=','))
+  reader = csv.DictReader if as_dicts else csv.reader
+
+  return reader(decoded_content.splitlines(), delimiter=',')
 
 
 def load_csv(path, as_dicts=False):
+  """Loads a CSV from a given filepath."""
   try:
     with open(path, encoding='utf-8') as f:
       reader = csv.DictReader(f) if as_dicts else csv.reader(f)
@@ -28,6 +32,7 @@ def load_csv(path, as_dicts=False):
 
 
 def combine_all_csvs(dir_path):
+  """Merges all the CSV files in a given directory into a list of dicts, one dict per row."""
   column_names = None
   combined_rows = []
 
@@ -56,6 +61,11 @@ class ValidationError(Exception):
 
 
 class Mapper:
+  """Provides methods for translating facility names to canonical names and for retrieving a list of all facilities.
+
+  This class is initialized with the rows of a CSV that has one row per facility, with the facility type and state,
+  the canonical name for the facility, and any number of aliases for the facility.
+  """
 
   def __init__(self, mappings_csv_rows):
     # TODO: Validate order of mappings CSV headers.
@@ -90,6 +100,7 @@ class Mapper:
     return '%s:%s' % (state.strip().lower(), name.strip().lower())
 
   def get_canonical_facility_name(self, state, facility_name):
+    """Translates a facility name as it appears in input data into a canonical name."""
     lookup_key = self._get_lookup_key(state, facility_name)
 
     facility = self._state_and_facility_name_to_canonical_facility.get(lookup_key)
@@ -100,6 +111,7 @@ class Mapper:
     return facility['name']
 
   def get_all_facilities(self):
+    """Provides a list of all facilities."""
     return self._facilities
 
 
@@ -144,6 +156,7 @@ def standardize_dataset(rows, source_id, name_mapper):
 
 
 def get_row_key(date, facility_state, facility_name):
+  """Provides a key string uniquely identifying an output row."""
   return '%s:%s:%s' % (date,
                        facility_state.strip().lower(),
                        facility_name.strip().lower())

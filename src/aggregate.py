@@ -8,10 +8,12 @@ from helpers import merging
 
 
 def load_data_dir(dir_name):
+  """Merges all the CSV files in a given directory into a list of dicts, one dict per row."""
   return data.combine_all_csvs(os.path.join(os.path.dirname(__file__), '../data', dir_name))
 
 
 def write_unknown_facilities(unknown_facilities):
+  """Writes a CSV to the output dir with all the faclity names used in inputs but not mapped to a canonical name."""
   with open(os.path.join(os.path.dirname(__file__), '../output/unknown_facilities.csv'), 'w', encoding='utf-8') as f:
     csv_writer = csv.writer(f)
 
@@ -20,6 +22,7 @@ def write_unknown_facilities(unknown_facilities):
       csv_writer.writerow(row)
 
 def write_merged_data(merged_data):
+  """Writes a CSV to the output dir with all the aggregated data."""
   with open(os.path.join(os.path.dirname(__file__), '../output/merged_data.csv'), 'w', encoding='utf-8') as f:
     csv_writer = csv.DictWriter(f, fieldnames=constants.OUTPUT_COLUMNS)
 
@@ -30,6 +33,7 @@ def write_merged_data(merged_data):
 
 
 def aggregate():
+  """Brings everything together, reading inputs, standardizing data, merging data, and writing the outputs."""
   name_mapper = data.Mapper(data.fetch_csv(constants.MAPPINGS_URL))
 
   datasets = {'covidprisondata.com': load_data_dir('covidprisondata.com'),
