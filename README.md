@@ -1,3 +1,7 @@
+## This repository is deprecated
+
+Please note that this repository has been deprecated, as the data sources it relied on for aggregation have dried up.
+
 # covid19-aggregator
 
 You can find the latest aggregated data file
